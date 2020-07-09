@@ -82,6 +82,19 @@ a:hover {
     transition: 1s;
 }
 
+.active {
+    color: #0044ff
+}
+
+.my-btn {
+    background-color: #0044ff;
+    color: #fff;
+}
+
+.big-numb {
+    font-size: 8rem;
+}
+
 .services-card:hover .services-number {
     color: white;
 }
