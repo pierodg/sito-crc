@@ -26,6 +26,7 @@ a:hover {
 
 .line-above {
     border-top: black solid 1px;
+    width: 90%;
 }
 
 #services {
@@ -34,11 +35,16 @@ a:hover {
 }
 .services-number{
     color: #0044ff;
-
+    transition: 1s;
 }
+
 .swiper-services {
     width: 100%;
     height: 100%;
+}
+
+.swiper-slide-active {
+    border-left: none!important;
 }
 
 .service-card {
@@ -77,6 +83,9 @@ a:hover {
     transition: 0.7s;
   }
 
+.service-card:hover > .services-number {
+    color: white!important;
+}
 .service-card:hover {
     color: white;
     transition: 1s;
