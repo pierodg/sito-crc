@@ -1,7 +1,11 @@
 /* Custom Slider */
 header {
-    background-image: url("../asset/text.jpg");
+    background-image: url("../asset/img.png");
     background-color: #cccccc;
+
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
 }
 /* Custom CSS */
 .header-text {
@@ -10,25 +14,70 @@ header {
 }
 .row {
     margin: 0!important;
+}
+
+a {
+    color: black
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.line-above {
+    border-top: black solid 1px;
+}
+
+#services {
+    overflow: hidden;
     
 }
 .services-number{
     color: #0044ff;
 
 }
-
-
 .swiper-services {
     width: 100%;
     height: 100%;
 }
 
 .service-card {
-    transition: 1s;
     border-left: black solid 1px;
 }
+
+#service-card1:hover {
+  background-image: url("../asset/card1.png");
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+  transition: 0.7s;
+}
+
+#service-card2:hover {
+    background-image: url("../asset/card2.png");
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    transition: 0.7s;
+  }
+
+  #service-card3:hover {
+    background-image: url("../asset/card2.png");
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    transition: 0.7s;
+  }
+
+  #service-card4:hover {
+    background-image: url("../asset/card2.png");
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    transition: 0.7s;
+  }
+
 .service-card:hover {
-    background-color: black;
     color: white;
     transition: 1s;
 }
