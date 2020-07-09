@@ -1,0 +1,15 @@
+/* Custom Slider */
+.swiper-container {
+    width: 100vw;
+    height: 80vh;
+}
+/* Custom CSS */
+.header-text {
+    font-size: 3.5em;
+    line-height: 1;
+}
+
+.slide-card:hover {
+    background-color: black;
+    color: white;
+}
