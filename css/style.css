@@ -91,6 +91,10 @@ a:hover {
     color: #fff;
 }
 
+.my-btn:hover {
+    color: #fff;
+}
+
 .big-numb {
     font-size: 8rem;
 }
