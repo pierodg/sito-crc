@@ -1,31 +1,74 @@
-@font-face {
-    font-family: 'Plain-Light-Italic';
-    src: url("../font/Plain-Light-Italic.woff") format("woff");
-}
-@font-face {
-    font-family: 'Plain-Light';
-    src: url("../font/Plain-Light.woff") format("woff");
-}
-@font-face {
-    font-family: 'Plain-Medium-Italic';
-    src: url("../font/Plain-Medium-Italic.woff") format("woff");
-}
-@font-face {
-    font-family: 'Plain-Medium';
-    src: url("../font/Plain-Medium.woff") format("woff");
-}
-@font-face {
-    font-family: 'Plain-Regular-Italic';
-    src: url("../font/Plain-Regular-Italic.woff") format("woff");
-}
-@font-face {
-    font-family: 'Plain-Regular';
-    src: url("../font/Plain-Regular.woff") format("woff");
-}
-body, html {
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+@font-face {
+    font-family: 'Plain-Light-Italic';
+    src: url("../fonts/Plain-Light-Italic.woff") format("woff");
+}
+@font-face {
+    font-family: 'Plain-Light';
+    src: url("../fonts/Plain-Light.woff") format("woff");
+}
+@font-face {
+    font-family: 'Plain-Medium-Italic';
+    src: url("../fonts/Plain-Medium-Italic.woff") format("woff");
+}
+@font-face {
+    font-family: 'Plain-Medium';
+    src: url("../fonts/Plain-Medium.woff") format("woff");
+}
+@font-face {
+    font-family: 'Plain-Regular-Italic';
+    src: url("../fonts/Plain-Regular-Italic.woff") format("woff");
+}
+@font-face {
+    font-family: 'Plain-Regular';
+    src: url("../fonts/Plain-Regular.woff") format("woff");
+}
+@font-face {
+    font-family: 'icomoon';
+    src:  url('../fonts/icomoon.eot?uoh6t0');
+    src:  url('../fonts/icomoon.eot?uoh6t0#iefix') format('embedded-opentype'),
+      url('../fonts/icomoon.ttf?uoh6t0') format('truetype'),
+      url('../fonts/icomoon.woff?uoh6t0') format('woff'),
+      url('../fonts/icomoon.svg?uoh6t0#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+  
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-arrow:before {
+    content: "\e900";
+    color: #3154a2;
+}
+.icon-download:before {
+    content: "\e901";
+}
+.icon-play:before {
+    content: "\e902";
+}
+.icon-phone:before {
+    content: "\e903";
+}
+.icon-email:before {
+    content: "\e904";
 }
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
     margin-bottom: 0;
