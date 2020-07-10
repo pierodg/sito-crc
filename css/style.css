@@ -1,3 +1,27 @@
+@font-face {
+    font-family: 'Plain-Light-Italic';
+    src: url("../font/Plain-Light-Italic.woff") format("woff");
+}
+@font-face {
+    font-family: 'Plain-Light';
+    src: url("../font/Plain-Light.woff") format("woff");
+}
+@font-face {
+    font-family: 'Plain-Medium-Italic';
+    src: url("../font/Plain-Medium-Italic.woff") format("woff");
+}
+@font-face {
+    font-family: 'Plain-Medium';
+    src: url("../font/Plain-Medium.woff") format("woff");
+}
+@font-face {
+    font-family: 'Plain-Regular-Italic';
+    src: url("../font/Plain-Regular-Italic.woff") format("woff");
+}
+@font-face {
+    font-family: 'Plain-Regular';
+    src: url("../font/Plain-Regular.woff") format("woff");
+}
 body, html {
     margin: 0;
     padding: 0;
@@ -9,14 +33,22 @@ body, html {
 p {
     margin-bottom: 0;
 }
+.font-light {
+    font-family: 'Plain-Light';
+}
+.font-medium {
+    font-family: 'Plain-Medium';
+}
+.font-regular {
+    font-family: 'Plain-Regular';
+}
 /* Custom Slider */
 header {
     background-image: url("../asset/img.png");
     background-color: #cccccc;
-
-  background-position: center; /* Center the image */
-  background-repeat: no-repeat; /* Do not repeat the image */
-  background-size: cover; /* Resize the background image to cover the entire container */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
 }
 /* Custom CSS */
 .header-text {
