@@ -90,15 +90,6 @@ p {
 .font-regular {
     font-family: 'Plain-Regular';
 }
-/* Custom Slider */
-header {
-    background-image: url("../asset/img.png");
-    background-color: #cccccc;
-    background-position: center; /* Center the image */
-    background-repeat: no-repeat; /* Do not repeat the image */
-    background-size: cover; /* Resize the background image to cover the entire container */
-}
-/* Custom CSS */
 .header-text {
     font-size: 3.5em;
     line-height: 1;
