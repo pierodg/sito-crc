@@ -34,6 +34,14 @@ a {
 a:hover {
     text-decoration: none;
 }
+.bordered::after {
+    border-left: 1px solid black;
+    min-height: 100%;
+    content: '';
+    display: block;
+    position: relative;
+    left: calc(100% - 50% + 1px);
+}
 
 .line-above {
     border-top: black solid 1px;
@@ -45,6 +53,9 @@ a:hover {
 }
 .pt-90 {
     padding-top: 90px;
+}
+.pb-90 {
+    padding-bottom: 90px;
 }
 .pb-60 {
     padding-bottom:60px;
@@ -138,4 +149,23 @@ a:hover {
 
 .services-card:hover .services-number {
     color: white;
+}
+
+.w-1280 {
+    max-width: 1280px;
+}
+
+.text-rotate {
+    transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    padding-left:15px;
+}
+.social-bar {
+    padding:0px;
+}
+.social-bar li {
+    display: inline-block;
 }
