@@ -52,11 +52,13 @@
     /* Better Font Rendering =========== */
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    margin-right:20px;
+    color:#0044ff;
+    font-size: 10px;
 }
 
 .icon-arrow:before {
     content: "\e900";
-    color: #3154a2;
 }
 .icon-download:before {
     content: "\e901";
@@ -211,15 +213,11 @@ a:hover {
 .my-btn {
     background-color: #0044ff;
     color: #fff;
-    width: 220;
+    font-size:16px;
 }
 
 .my-btn:hover {
     color: #fff;
-}
-
-.big-numb {
-    font-size: 8rem;
 }
 
 .services-card:hover .services-number {
@@ -243,4 +241,43 @@ a:hover {
 }
 .social-bar li {
     display: inline-block;
+}
+
+h3,
+.tab_custom span:first-child {
+    font-size:13px;
+    padding-right: 20px;
+}
+h2 {
+    font-size: 32px;
+}
+.link {
+    font-size: 12px;
+}
+h1 {
+    font-size:48px;
+}
+h5 {
+    font-size:18px;
+}
+.tab_custom a {
+    display: flex;
+    align-items: center;
+}
+.tab_custom a span {
+    font-size:20px;
+}
+.position-relative {
+    position: relative;
+}
+.all-app {
+    position: absolute;
+    bottom:0;
+    right:0;
+}
+.big-numb {
+    font-size: 120px;
+}
+.fs-15 {
+    font-size:15px;
 }
