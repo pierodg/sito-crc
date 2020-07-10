@@ -1,3 +1,14 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 0;
+}
+p {
+    margin-bottom: 0;
+}
 /* Custom Slider */
 header {
     background-image: url("../asset/img.png");
@@ -26,7 +37,16 @@ a:hover {
 
 .line-above {
     border-top: black solid 1px;
-    width: 90%;
+    width: 100%;
+}
+.pt-180 {
+    padding-top:180px;
+}
+.pt-90 {
+    padding-top: 90px;
+}
+.pb-60 {
+    padding-bottom:60px;
 }
 
 #services {
