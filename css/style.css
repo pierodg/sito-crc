@@ -64,12 +64,15 @@
     content: "\e901";
 }
 .icon-play:before {
+    font-size: 20px;
     content: "\e902";
 }
 .icon-phone:before {
+    font-size: 20px;
     content: "\e903";
 }
 .icon-email:before {
+    font-size: 20px;
     content: "\e904";
 }
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
@@ -235,6 +238,8 @@ a:hover {
     -ms-transform: rotate(90deg);
     -o-transform: rotate(90deg);
     padding-left:15px;
+    font-size: 20px;
+    color:#0044ff;
 }
 .social-bar {
     padding:0px;
@@ -309,4 +314,12 @@ h5 {
 }
 .swiper-pagination-progressbar .swiper-pagination-progressbar-fill {
     background:#fff;
+}
+
+footer {
+    font-size: 13px;
+
+}
+footer li {
+    padding-bottom: 10px;
 }
