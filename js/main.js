@@ -4,13 +4,13 @@ $(document).ready(function(){
         effect: 'fade',
         // Optional parameters
         direction: 'horizontal',
-        loop: true,
+        loop: false,
         fadeEffect: {
             crossFade: true
         },
         scrollbar: {
             el: '.swiper-scrollbar',
-            hide: false,
+            hide: false
         },
         pagination: {
             el: '.swiper-pagination',
