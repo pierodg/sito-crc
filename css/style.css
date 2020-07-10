@@ -49,6 +49,12 @@ a:hover {
 
 .service-card {
     border-left: black solid 1px;
+    position: relative;
+}
+
+.show-more {
+    position: absolute;
+    bottom: 30;
 }
 
 #service-card1:hover {
