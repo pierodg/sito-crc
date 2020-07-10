@@ -1,6 +1,6 @@
 $(document).ready(function(){
     
-    var mySwiper = new Swiper('.swiper-container', {
+    var header = new Swiper('.swiper-container', {
         effect: 'fade',
         // Optional parameters
         direction: 'horizontal',
@@ -8,8 +8,18 @@ $(document).ready(function(){
         fadeEffect: {
             crossFade: true
         },
+        scrollbar: {
+            el: '.swiper-scrollbar',
+            hide: false,
+        },
+        pagination: {
+            el: '.swiper-pagination',
+            type: 'fraction',
+        },
     });
-    var swiper = new Swiper('.swiper-services', {
+
+
+    var services = new Swiper('.swiper-services', {
         slidesPerView: 3,
         loop: 'true'
     });

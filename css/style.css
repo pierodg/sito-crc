@@ -281,3 +281,32 @@ h5 {
 .fs-15 {
     font-size:15px;
 }
+.swiper-container {
+    margin-left: 0;
+    margin-right: 0;
+    color: #fff;
+    padding-top:30px;
+}
+.swiper-container h1 {
+    font-size:60px;
+    font-family: 'Plain-Regular';
+}
+.swiper-container p a {
+    color:#fff;
+}
+.swiper-container-horizontal>.swiper-scrollbar {
+    bottom: unset;
+    top:0px;
+    height: 1px;
+    background: rgba(255,255,255,.7);
+}
+.swiper-scrollbar-drag {
+    background:#fff;
+}
+.swiper-container-horizontal>.swiper-pagination-progressbar {
+    height: 1px;
+    background: rgba(255,255,255,.7);
+}
+.swiper-pagination-progressbar .swiper-pagination-progressbar-fill {
+    background:#fff;
+}
