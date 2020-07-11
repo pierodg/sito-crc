@@ -272,8 +272,17 @@ h5 {
     right:0;
 }
 .big-numb {
-    font-size: 120px;
+    font-size: 120px!important;
 }
+
+.numb-badge {
+    z-index: 1;
+    position: absolute;
+    right: 0;
+    top: 0;
+    
+  }
+
 .fs-15 {
     font-size:15px;
 }
@@ -314,3 +323,12 @@ footer {
 footer li {
     padding-bottom: 10px;
 }
+
+#news h1 {
+    font-size: 32px;
+}
+#chi_siamo h1 {
+    font-size: 36px;
+}
+
+
