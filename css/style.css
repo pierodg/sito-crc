@@ -256,6 +256,10 @@ h1 {
 h5 {
     font-size:18px;
 }
+
+.font-13 {
+    font-size: 13px;
+}
 .tab_custom a {
     display: flex;
     align-items: center;
