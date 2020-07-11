@@ -81,14 +81,12 @@
                     <div class="col-4 pl-5">
                         <h1 class="header-text">Competence Research & Consulting</h1>
                         <p class="pt-5 text-right"><a href="javascript:void(0);" class="link font-medium"><i class="icon-arrow"></i>Scopri di più</a></p>
-                
                     </div>
                 </div>
                 <div class="swiper-slide d-flex align-items-center" style="background-image:url('asset/img.png');">
                     <div class="col-4 pl-5">
                         <h1 class="header-text">Competence Research & Consulting 2</h1>
                         <p class="pt-5 text-right"><a href="javascript:void(0);" class="link font-medium"><i class="icon-arrow"></i>Scopri di più</a></p>
-                
                     </div>
                 </div>
             </div>

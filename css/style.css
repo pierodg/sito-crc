@@ -149,6 +149,10 @@ a:hover {
 .swiper-slide-active {
     border-left: none!important;
 }
+.swiper-slide {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 .service-card {
     border-left: black solid 1px;
@@ -304,19 +308,12 @@ h5 {
 }
 .swiper-container-horizontal>.swiper-scrollbar {
     bottom: unset;
-    top:0px;
+    top:250px;
     left:50px;
     height: 1px;
     background: rgba(255,255,255,.7);
 }
 .swiper-scrollbar-drag {
-    background:#fff;
-}
-.swiper-container-horizontal>.swiper-pagination-progressbar {
-    height: 1px;
-    background: rgba(255,255,255,.7);
-}
-.swiper-pagination-progressbar .swiper-pagination-progressbar-fill {
     background:#fff;
 }
 .navmenu {
