@@ -20,25 +20,48 @@
             </div>
         </div>
 
-        <div class="container w-1280">
-            <div class="row">
-                <div class="col-4">
-                    <a href="#" id="service-card1" class="p-5">
+        <div class="pb-5 container w-1280">
+            <div class="row line-above line-below">
+                <div class="col-sm">
+                    <a href="#"  class="p-5">
                         <p class="services-number font-light">01</p>
                         <h2 class="my-5 font-light">HARDWARE & FIRMWARE DESIGN</h2>
                         <p class="link show-more font-medium"><i class="icon-arrow"></i>Scopri di più</p>
                     </a>
                 </div>
-                <div class="col-4">
-                    <a href="#" id="service-card2" class="p-5 service-card swiper-slide">
+                <div class="col-sm">
+                    <a href="#" class="p-5">
                         <p class="services-number font-light">02</p>
                         <h2 class="my-5 font-light">INDUSTRIAL ENGINEERING & AUTOMATION</h2>
                         <p class="link show-more font-medium"><i class="icon-arrow"></i>Scopri di più</p>
                     </a>
                 </div>
-                <div class="col-4">
-                    <a href="#" id="service-card3" class="p-5 service-card swiper-slide">
-                        <p class="services-numbe font-lightr">03</p>
+                <div class="col-sm">
+                    <a href="#" class="p-5">
+                        <p class="services-number font-light">03</p>
+                        <h2 class="my-5 font-light">BACK OFFICE MANAGEMENT SOFTWARE</h2>
+                        <p class="link show-more font-medium"><i class="icon-arrow"></i>Scopri di più</p>
+                    </a>
+                </div>
+            </div>
+            <div class="row line-below">
+                <div class="col-sm">
+                    <a href="#"  class="p-5">
+                        <p class="services-number font-light">01</p>
+                        <h2 class="my-5 font-light">HARDWARE & FIRMWARE DESIGN</h2>
+                        <p class="link show-more font-medium"><i class="icon-arrow"></i>Scopri di più</p>
+                    </a>
+                </div>
+                <div class="col-sm">
+                    <a href="#" class="p-5">
+                        <p class="services-number font-light">02</p>
+                        <h2 class="my-5 font-light">INDUSTRIAL ENGINEERING & AUTOMATION</h2>
+                        <p class="link show-more font-medium"><i class="icon-arrow"></i>Scopri di più</p>
+                    </a>
+                </div>
+                <div class="col-sm">
+                    <a href="#" class="p-5">
+                        <p class="services-number font-light">03</p>
                         <h2 class="my-5 font-light">BACK OFFICE MANAGEMENT SOFTWARE</h2>
                         <p class="link show-more font-medium"><i class="icon-arrow"></i>Scopri di più</p>
                     </a>
