@@ -120,7 +120,11 @@ a:hover {
 .line-above {
     border-top: black solid 1px;
     width: 100%;
-    padding-top: 5px;
+}
+
+.line-below {
+    border-bottom: black solid 1px;
+    width: 100%;
 }
 .pt-180 {
     padding-top:180px;
