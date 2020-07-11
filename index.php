@@ -120,26 +120,26 @@
                 <div id="services" class="w-100 h-75 swiper-services">
                     <div class="swiper-wrapper">
                         <!-- First Card-->
-                        <a href="#" id="service-card1" class="p-5 service-card swiper-slide">
+                        <a href="#" id="service-card1" class="p-5 service-card swiper-slide h-500">
                             <p class="services-number font-light">01</p>
                             <h2 class="my-5 font-light">HARDWARE & FIRMWARE DESIGN</h2>
                             <p class="link show-more font-medium"><i class="icon-arrow"></i>Scopri di più</p>
                         </a>
                         <!-- Second Card-->
-                        <a href="#" id="service-card2" class="p-5 service-card swiper-slide">
+                        <a href="#" id="service-card2" class="p-5 service-card swiper-slide h-500">
                             <p class="services-number font-light">02</p>
                             <h2 class="my-5 font-light">INDUSTRIAL ENGINEERING & AUTOMATION</h2>
                             <p class="link show-more font-medium"><i class="icon-arrow"></i>Scopri di più</p>
                         </a>
                         <!-- Third Card-->
 
-                        <a href="#" id="service-card3" class="p-5 service-card swiper-slide">
+                        <a href="#" id="service-card3" class="p-5 service-card swiper-slide h-500">
                             <p class="services-numbe font-lightr">03</p>
                             <h2 class="my-5 font-light">BACK OFFICE MANAGEMENT SOFTWARE</h2>
                             <p class="link show-more font-medium"><i class="icon-arrow"></i>Scopri di più</p>
                         </a>
                         <!-- Fourth Card-->
-                        <a href="#" id="service-card4" class="p-5 service-card swiper-slide">
+                        <a href="#" id="service-card4" class="p-5 service-card swiper-slide h-500">
                             <p class="services-number font-light">04</p>
                             <h2 class="my-5 font-light">LOREM IPSUM IPSUM</h2>
                             <p class="link show-more font-medium"><i class="icon-arrow"></i>Scopri di più</p>
