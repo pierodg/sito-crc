@@ -352,3 +352,13 @@ footer li {
     background-color:#fff;
     padding:15px;
 }
+.arrows {
+    position: absolute;
+    top: 45px;
+    /* width: 500px; */
+    left: -599px;
+    /* font-size: 50px; */
+    height: 600px;
+    width: 1388px;
+    /* z-index: 99999999;*/
+}
