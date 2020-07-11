@@ -362,6 +362,10 @@ footer li {
     width: 1388px;
     /* z-index: 99999999;*/
 }
+.logo {
+    width:150px;
+    height:auto;
+}
 .h-500 {
     height: 500px;
 }
