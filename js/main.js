@@ -21,19 +21,25 @@ $(document).ready(function(){
 
     var services = new Swiper('.swiper-services', {
         slidesPerView: 3,
-        loop: true
+        loop: true,
+        nextButton: '.next_btn'
     });
-})
+
+    $(".next_btn").click(function(e){
+        e.preventDefault();
+        services.slideNext();
+    });
 
 
-$('.count').each(function () {
-    $(this).prop('Counter',0).animate({
-        Counter: $(this).text()
-    }, {
-        duration: 4000,
-        easing: 'swing',
-        step: function (now) {
-            $(this).text(Math.ceil(now));
-        }
-    });
-}); 
+    $('.count').each(function () {
+        $(this).prop('Counter',0).animate({
+            Counter: $(this).text()
+        }, {
+            duration: 4000,
+            easing: 'swing',
+            step: function (now) {
+                $(this).text(Math.ceil(now));
+            }
+        });
+    }); 
+});

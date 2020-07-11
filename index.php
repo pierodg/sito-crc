@@ -139,7 +139,7 @@
             </div>
             <div class="row pt-5">
                 <div class="col-3 offset-7 text-right">
-                    <a class="font-medium link" href="javascript:void(0);"><i class="icon-arrow icon-rounded"></i>Avanti</a>
+                    <a class="font-medium link next_btn" href="javascript:void(0);"><i class="icon-arrow icon-rounded"></i>Avanti</a>
                 </div>
             </div>
         </div>
