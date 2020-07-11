@@ -13,7 +13,7 @@
 
     </head>
     <body>
-        <header class="p-5 vh-100 d-flex align-items-center">  
+        <?php /*<header class="p-5 vh-100 d-flex align-items-center">  
             <!--<nav class="p-3 navbar navbar-expand-sm navbar-dark">
                 <a class="navbar-brand" href="#">logo</a>
                 <ul class="navbar-nav ml-auto">
@@ -36,13 +36,12 @@
             </nav>-->
 
             <div class="swiper-container d-flex col-4">
-            <!-- Additional required wrapper -->
+                <!-- Additional required wrapper -->
                 <div class="swiper-wrapper">
-                <!-- Slides -->
-                    <div class="swiper-slide" style="background-image:url('asset/img.png');">
+                    <!-- Slides -->
+                    <div class="swiper-slide">
                         <h1 class="header-text">Competence Research & Consulting</h1>
                         <p class="pt-5 text-right"><a href="javascript:void(0);" class="link font-medium"><i class="icon-arrow"></i>Scopri di più</a></p>
-
                     </div>
                     <div class="swiper-slide">
                         <h1 class="header-text">Competence Research & Consulting 2</h1>
@@ -52,7 +51,51 @@
                 <div class="swiper-scrollbar"></div>
                 <div class="swiper-pagination"></div>
             </div>
-        </header>
+        </header>*/?>
+
+        <div class="swiper-container vh-100">
+            <nav class="pl-5 navmenu navbar navbar-expand-sm navbar-dark">
+                <a class="navbar-brand" href="#">logo</a>
+                <ul class="navbar-nav ml-auto">
+                    <li class="mr-4 nav-item">
+                        <a class="nav-link" href="#">Servizi</a>
+                    </li>
+                    <li class="mr-4 nav-item">
+                        <a class="nav-link" href="#">Applicazioni</a>
+                    </li>
+                    <li class="mr-4 nav-item">
+                        <a class="nav-link" href="#">Chi siamo</a>
+                    </li>
+                    <li class="mr-4 nav-item">
+                        <a class="nav-link" href="#">IT</a>
+                    </li>
+                    <li class="mr-4 nav-item">
+                        <a class="nav-link" href="#">Menu</a>
+                    </li>
+                </ul>
+            </nav>
+        <!-- Additional required wrapper -->
+            <div class="swiper-wrapper d-flex">
+            <!-- Slides -->
+                <div class="swiper-slide d-flex align-items-center" style="background-image:url('asset/img.png');">
+                    <div class="col-4 pl-5">
+                        <h1 class="header-text">Competence Research & Consulting</h1>
+                        <p class="pt-5 text-right"><a href="javascript:void(0);" class="link font-medium"><i class="icon-arrow"></i>Scopri di più</a></p>
+                
+                    </div>
+                </div>
+                <div class="swiper-slide d-flex align-items-center" style="background-image:url('asset/img.png');">
+                    <div class="col-4 pl-5">
+                        <h1 class="header-text">Competence Research & Consulting 2</h1>
+                        <p class="pt-5 text-right"><a href="javascript:void(0);" class="link font-medium"><i class="icon-arrow"></i>Scopri di più</a></p>
+                
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-scrollbar col-4"></div>
+            <div class="swiper-pagination col-4 text-left pl-5 pb-5"></div>
+            
+        </div>
         
 
         
