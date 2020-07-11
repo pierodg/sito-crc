@@ -144,7 +144,7 @@
                         <!-- Third Card-->
 
                         <a href="#" id="service-card3" class="p-5 service-card swiper-slide h-500">
-                            <p class="services-numbe font-lightr">03</p>
+                            <p class="services-number font-light">03</p>
                             <h2 class="my-5 font-light">BACK OFFICE MANAGEMENT SOFTWARE</h2>
                             <p class="link show-more font-medium"><i class="icon-arrow"></i>Scopri di più</p>
                         </a>

@@ -22,48 +22,58 @@
 
         <div class="pb-5 container w-1280">
             <div class="row line-above line-below">
-                <div class="col-sm">
+                <div class="col-sm h-500">
                     <a href="#"  class="p-5">
                         <p class="services-number font-light">01</p>
                         <h2 class="my-5 font-light">HARDWARE & FIRMWARE DESIGN</h2>
+                        <p class="d-none">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi nemo necessitatibus repellendus, error dicta consequuntur porro sit esse vero, sapiente minus veniam, maiores maxime aliquam quae illo modi corrupti reiciendis?</p>
                         <p class="link show-more font-medium"><i class="icon-arrow"></i>Scopri di più</p>
                     </a>
                 </div>
-                <div class="col-sm">
+                <div class="col-sm h-500">
                     <a href="#" class="p-5">
                         <p class="services-number font-light">02</p>
                         <h2 class="my-5 font-light">INDUSTRIAL ENGINEERING & AUTOMATION</h2>
+                        <p class="d-none">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi nemo necessitatibus repellendus, error dicta consequuntur porro sit esse vero, sapiente minus veniam, maiores maxime aliquam quae illo modi corrupti reiciendis?</p>
+
                         <p class="link show-more font-medium"><i class="icon-arrow"></i>Scopri di più</p>
                     </a>
                 </div>
-                <div class="col-sm">
+                <div class="col-sm h-500">
                     <a href="#" class="p-5">
                         <p class="services-number font-light">03</p>
                         <h2 class="my-5 font-light">BACK OFFICE MANAGEMENT SOFTWARE</h2>
+                        <p class="d-none">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi nemo necessitatibus repellendus, error dicta consequuntur porro sit esse vero, sapiente minus veniam, maiores maxime aliquam quae illo modi corrupti reiciendis?</p>
+
                         <p class="link show-more font-medium"><i class="icon-arrow"></i>Scopri di più</p>
                     </a>
                 </div>
             </div>
             <div class="row line-below">
-                <div class="col-sm">
+                <div class="col-sm h-500">
                     <a href="#"  class="p-5">
-                        <p class="services-number font-light">01</p>
-                        <h2 class="my-5 font-light">HARDWARE & FIRMWARE DESIGN</h2>
+                        <p class="services-number font-light">04</p>
+                        <h2 class="my-5 font-light">TESTING & REPAIR SERVICES</h2>
+                        <p class="d-none">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi nemo necessitatibus repellendus, error dicta consequuntur porro sit esse vero, sapiente minus veniam, maiores maxime aliquam quae illo modi corrupti reiciendis?</p>
+
                         <p class="link show-more font-medium"><i class="icon-arrow"></i>Scopri di più</p>
                     </a>
                 </div>
-                <div class="col-sm">
+                <div class="col-sm h-500">
                     <a href="#" class="p-5">
-                        <p class="services-number font-light">02</p>
-                        <h2 class="my-5 font-light">INDUSTRIAL ENGINEERING & AUTOMATION</h2>
+                        <p class="services-number font-light">05</p>
+                        <h2 class="my-5 font-light">FAILURE ANALYSIS SERVICES</h2>
+                        <p class="d-none">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi nemo necessitatibus repellendus, error dicta consequuntur porro sit esse vero, sapiente minus veniam, maiores maxime aliquam quae illo modi corrupti reiciendis?</p>
+
                         <p class="link show-more font-medium"><i class="icon-arrow"></i>Scopri di più</p>
                     </a>
                 </div>
-                <div class="col-sm">
+                <div class="col-sm h-500">
                     <a href="#" class="p-5">
-                        <p class="services-number font-light">03</p>
-                        <h2 class="my-5 font-light">BACK OFFICE MANAGEMENT SOFTWARE</h2>
-                        <p class="link show-more font-medium"><i class="icon-arrow"></i>Scopri di più</p>
+                        <h2 class="my-5 font-light">Contattaci per maggiori informazioni</h2>
+                        <p class="d-none">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi nemo necessitatibus repellendus, error dicta consequuntur porro sit esse vero, sapiente minus veniam, maiores maxime aliquam quae illo modi corrupti reiciendis?</p>
+
+                        <p class="link show-more font-medium"><i class="icon-arrow"></i>Contattaci</p>
                     </a>
                 </div>
             </div>
