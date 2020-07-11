@@ -21,7 +21,7 @@ $(document).ready(function(){
 
     var services = new Swiper('.swiper-services', {
         slidesPerView: 3,
-        loop: 'true'
+        loop: true
     });
 })
 

@@ -75,6 +75,9 @@
     font-size: 20px;
     content: "\e904";
 }
+body {
+    background-color:#f2f2f2;
+}
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
     margin-bottom: 0;
 }
@@ -331,6 +334,7 @@ footer {
 }
 footer li {
     padding-bottom: 10px;
+    display: flex;
 }
 
 #news h1 {
@@ -339,5 +343,8 @@ footer li {
 #chi_siamo h1 {
     font-size: 36px;
 }
-
-
+.icon-rounded {
+    border-radius:50%;
+    background-color:#fff;
+    padding:15px;
+}
