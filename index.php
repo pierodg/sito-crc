@@ -74,7 +74,7 @@
         </header>*/?>
 
         <div class="swiper-container vh-100">
-            <nav class="pl-5 navmenu navbar navbar-expand-sm navbar-dark">
+            <nav class="pl-5 navmenu position-absolute navbar navbar-expand-sm navbar-dark">
                 <a class="navbar-brand" href="#"><svg class="logo"><use xlink:href="#logo" xmlns:xlink="http://www.w3.org/1999/xlink"></use></svg></a>
                 <ul class="navbar-nav ml-auto">
                     <li class="mr-4 nav-item">

@@ -232,6 +232,9 @@ a:hover {
 .w-1280 {
     max-width: 1280px;
 }
+.w-2220 {
+    max-width: 2220px;
+}
 
 .text-rotate {
     transform: rotate(90deg);
@@ -324,13 +327,16 @@ h5 {
     background:#fff;
 }
 .navmenu {
-    position: absolute;
+    position: relative;
     top:0;
     left:0;
     width:100%;
     z-index:9999;
     padding-top:20px;
     padding-bottom:20px;
+}
+.position-absolute {
+    position: absolute;
 }
 footer {
     font-size: 13px;
@@ -368,4 +374,21 @@ footer li {
 }
 .h-500 {
     height: 500px;
+}
+.bt-1 {
+    border-top: 1px solid black;
+}
+.bb-1 {
+    border-bottom: 1px solid black;
+}
+.mb-100 {
+    margin-bottom:100px;
+}
+.details h2 {
+    font-size:48px;
+    text-transform: uppercase;
+}
+.py-80 {
+    padding-top:80px;
+    padding-bottom:80px;
 }
