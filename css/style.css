@@ -152,13 +152,10 @@ a:hover {
     width: 100%;
     height: 100%;
 }
-
-.swiper-slide-active {
-    border-left: none!important;
-}
 .swiper-slide {
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
 }
 
 .service-card {
@@ -170,38 +167,6 @@ a:hover {
     position: absolute;
     bottom: 30;
 }
-
-#service-card1:hover {
-  background-image: url("../asset/card1.png");
-  background-position: center; /* Center the image */
-  background-repeat: no-repeat; /* Do not repeat the image */
-  background-size: cover; /* Resize the background image to cover the entire container */
-  transition: 0.7s;
-}
-
-#service-card2:hover {
-    background-image: url("../asset/card2.png");
-    background-position: center; /* Center the image */
-    background-repeat: no-repeat; /* Do not repeat the image */
-    background-size: cover; /* Resize the background image to cover the entire container */
-    transition: 0.7s;
-  }
-
-  #service-card3:hover {
-    background-image: url("../asset/card2.png");
-    background-position: center; /* Center the image */
-    background-repeat: no-repeat; /* Do not repeat the image */
-    background-size: cover; /* Resize the background image to cover the entire container */
-    transition: 0.7s;
-  }
-
-  #service-card4:hover {
-    background-image: url("../asset/card2.png");
-    background-position: center; /* Center the image */
-    background-repeat: no-repeat; /* Do not repeat the image */
-    background-size: cover; /* Resize the background image to cover the entire container */
-    transition: 0.7s;
-  }
 
 .service-card:hover > .services-number {
     color: white!important;

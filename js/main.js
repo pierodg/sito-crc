@@ -42,4 +42,13 @@ $(document).ready(function(){
             }
         });
     }); 
+
+    $('[data-bg]').mouseenter(function(e){
+        e.preventDefault();
+        $(this).css('background-image', 'url('+$(this).data('bg')+')');
+    });
+    $('[data-bg]').mouseleave(function(e){
+        e.preventDefault();
+        $(this).css('background-image', 'none');
+    });
 });

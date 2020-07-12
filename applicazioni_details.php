@@ -132,19 +132,45 @@
                     <h1 class="pt-4 font-regular font-36">Headline lorem ipsum dolor sit amet</h1>
                 </div>
                 <div class="col-7 offset-1 pt-4">
-                    
+                    <div class="swiper-wrapper">
+                        <!-- First Card-->
+                        <a href="#" id="service-card1" class="p-5 service-card swiper-slide h-500">
+                            <p class="services-number font-light">01</p>
+                            <h2 class="my-5 font-light">HARDWARE & FIRMWARE DESIGN</h2>
+                            <p class="link show-more font-medium"><i class="icon-arrow"></i>Scopri di più</p>
+                        </a>
+                        <!-- Second Card-->
+                        <a href="#" id="service-card2" class="p-5 service-card swiper-slide h-500">
+                            <p class="services-number font-light">02</p>
+                            <h2 class="my-5 font-light">INDUSTRIAL ENGINEERING & AUTOMATION</h2>
+                            <p class="link show-more font-medium"><i class="icon-arrow"></i>Scopri di più</p>
+                        </a>
+                        <!-- Third Card-->
+
+                        <a href="#" id="service-card3" class="p-5 service-card swiper-slide h-500">
+                            <p class="services-number font-light">03</p>
+                            <h2 class="my-5 font-light">BACK OFFICE MANAGEMENT SOFTWARE</h2>
+                            <p class="link show-more font-medium"><i class="icon-arrow"></i>Scopri di più</p>
+                        </a>
+                        <!-- Fourth Card-->
+                        <a href="#" id="service-card4" class="p-5 service-card swiper-slide h-500">
+                            <p class="services-number font-light">04</p>
+                            <h2 class="my-5 font-light">LOREM IPSUM IPSUM</h2>
+                            <p class="link show-more font-medium"><i class="icon-arrow"></i>Scopri di più</p>
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
 
-        <div class="container-fluid p-0 m-0 position-relative">
-            <div class="row">
+        <div class="container-fluid position-relative">
+            <div class="row py-80">
                 <div class="col-4 offset-3">
                     <h3 class="pt-2 line-above font-medium uppercase">contatti</h3>
                     <h1 class="pt-4 font-regular font-36">Contattaci per maggiori informazioni o un preventivo gratuito</h1>
                 </div>
             </div>
-            <div class="row">
+            <div class="row pb-60">
                 <div class="col-5 offset-3 text-center">
                     form
                 </div>
