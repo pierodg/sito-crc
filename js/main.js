@@ -26,15 +26,22 @@ $(document).ready(function(){
     });
 
     var partners = new Swiper('.swiper-partners', {
-        direction: 'horizontal',
+        spaceBetween: 30,
+        slidesPerGroup: 3,
         slidesPerView: 3,
         loop: true,
-        nextButton: '#news_partner'
+        nextButton: '#next_partner'
     });
 
-    $(".next_btn").click(function(e){
+    $("#next_btn").click(function(e){
         e.preventDefault();
         services.slideNext();
+    });
+
+
+    $("#next_partner").click(function(e){
+        e.preventDefault();
+        partners.slideNext();
     });
 
 

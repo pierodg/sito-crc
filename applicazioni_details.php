@@ -130,27 +130,30 @@
                     <h3 class="pt-2 line-above font-medium uppercase">partners</h3>
                     <h1 class="pt-4 font-regular font-36">Headline lorem ipsum dolor sit amet</h1>
                 </div>
-                <div class="col-7 offset-1 pt-4 swiper-partners">
+                <div class="col-6 offset-1 pt-4 swiper-partners">
                     <div class="swiper-wrapper">
-                        <div class="partner-rounded swiper-slide">
-                            icona1
+                        <div class="swiper-slide">
+                            <div class=" partner-rounded">icona1</div>
                         </div>
-                        <div class="partner-rounded swiper-slide">
-                            icona2
+                        <div class="swiper-slide">
+                            <div class=" partner-rounded">icona2</div>
                         </div>
-                        <div class="partner-rounded swiper-slide">
-                            icona3
+                        <div class="swiper-slide">
+                            <div class=" partner-rounded">icona3</div>
                         </div>
-                        <div class="partner-rounded swiper-slide">
-                            icona4
+                        <div class="swiper-slide">
+                            <div class=" partner-rounded">icona4</div>
                         </div>
-                        <div class="partner-rounded swiper-slide">
-                            icona5
+                        <div class="swiper-slide">
+                            <div class=" partner-rounded">icona5</div>
                         </div>
-                        <div class="partner-rounded swiper-slide">
-                            icona6
+                        <div class="swiper-slide">
+                            <div class=" partner-rounded">icona6</div>
                         </div>
                     </div>
+                </div>
+                <div class="col-1 d-flex align-items-center">
+                    <a id="next_partner" href="javascript:void(0);"><i class="icon-arrow icon-rounded"></a>
                 </div>
             </div>
         </div>

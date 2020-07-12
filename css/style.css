@@ -157,6 +157,9 @@ a:hover {
     background-size: cover;
     background-position: center;
 }
+.swiper-partners {
+    overflow: hidden;
+}
 
 .service-card {
     border-left: #000 solid 1px;
