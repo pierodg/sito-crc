@@ -22,7 +22,14 @@ $(document).ready(function(){
     var services = new Swiper('.swiper-services', {
         slidesPerView: 3,
         loop: true,
-        nextButton: '.next_btn'
+        nextButton: '#next_btn'
+    });
+
+    var partners = new Swiper('.swiper-partners', {
+        direction: 'horizontal',
+        slidesPerView: 3,
+        loop: true,
+        nextButton: '#news_partner'
     });
 
     $(".next_btn").click(function(e){

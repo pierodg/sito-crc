@@ -7,7 +7,7 @@
 
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="css/bootstrap.min.css">
-        <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+        <link rel="stylesheet" href="css/swiper-bundle.min.css">
         <!-- Custom CSS -->
         <link rel="stylesheet" href="css/style.css">
 
@@ -158,7 +158,7 @@
             </div>
             <div class="row pt-5">
                 <div class="col-3 offset-7 text-right">
-                    <a class="font-medium link next_btn" href="javascript:void(0);"><i class="icon-arrow icon-rounded"></i>Avanti</a>
+                    <a id="next_btn" class="font-medium link" href="javascript:void(0);"><i class="icon-arrow icon-rounded"></i>Avanti</a>
                 </div>
             </div>
         </div>
@@ -315,7 +315,7 @@
 
         <script src="js/jquery-3.5.1.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
-        <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+        <script src="js/swiper-bundle.min.js"></script>
         <script src="js/main.js"></script>
     </body>
 </html>

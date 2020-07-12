@@ -7,7 +7,7 @@
 
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="css/bootstrap.min.css">
-        <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+        <link rel="stylesheet" href="css/swiper-bundle.min.css">
         <!-- Custom CSS -->
         <link rel="stylesheet" href="css/style.css">
 
@@ -220,6 +220,6 @@
 
         <script src="js/jquery-3.5.1.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
-        <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+        <script src="js/swiper-bundle.min.js"></script>
     </body>
 </html>

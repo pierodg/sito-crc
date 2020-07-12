@@ -7,7 +7,7 @@
 
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="css/bootstrap.min.css">
-        <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+        <link rel="stylesheet" href="css/swiper-bundle.min.css">
         <!-- Custom CSS -->
         <link rel="stylesheet" href="css/style.css">
 
@@ -91,36 +91,35 @@
                 <div id="services" class="w-100 h-75 swiper-services">
                     <div class="swiper-wrapper">
                         <!-- First Card-->
-                        <a href="#" id="service-card1" class="p-5 service-card swiper-slide h-500">
+                        <a href="#" class="p-5 service-card swiper-slide h-500" data-bg="asset/card1.png">
                             <p class="services-number font-light">01</p>
                             <h2 class="my-5 font-light">HARDWARE & FIRMWARE DESIGN</h2>
-                            <p class="link show-more font-medium"><i class="icon-arrow"></i>Scopri di più</p>
+                            <p class="link show-more font-medium"><i class="icon-arrow"></i>Dettaglio prodotto</p>
                         </a>
                         <!-- Second Card-->
-                        <a href="#" id="service-card2" class="p-5 service-card swiper-slide h-500">
+                        <a href="#" class="p-5 service-card swiper-slide h-500" data-bg="asset/card1.png">
                             <p class="services-number font-light">02</p>
                             <h2 class="my-5 font-light">INDUSTRIAL ENGINEERING & AUTOMATION</h2>
-                            <p class="link show-more font-medium"><i class="icon-arrow"></i>Scopri di più</p>
+                            <p class="link show-more font-medium"><i class="icon-arrow"></i>Dettaglio prodotto</p>
                         </a>
                         <!-- Third Card-->
-
-                        <a href="#" id="service-card3" class="p-5 service-card swiper-slide h-500">
+                        <a href="#" class="p-5 service-card swiper-slide h-500" data-bg="asset/card1.png">
                             <p class="services-number font-light">03</p>
                             <h2 class="my-5 font-light">BACK OFFICE MANAGEMENT SOFTWARE</h2>
-                            <p class="link show-more font-medium"><i class="icon-arrow"></i>Scopri di più</p>
+                            <p class="link show-more font-medium"><i class="icon-arrow"></i>Dettaglio prodotto</p>
                         </a>
                         <!-- Fourth Card-->
-                        <a href="#" id="service-card4" class="p-5 service-card swiper-slide h-500">
+                        <a href="#" class="p-5 service-card swiper-slide h-500" data-bg="asset/card1.png">
                             <p class="services-number font-light">04</p>
                             <h2 class="my-5 font-light">LOREM IPSUM IPSUM</h2>
-                            <p class="link show-more font-medium"><i class="icon-arrow"></i>Scopri di più</p>
+                            <p class="link show-more font-medium"><i class="icon-arrow"></i>Dettaglio prodotto</p>
                         </a>
                     </div>
                 </div>
             </div>
             <div class="row pt-5">
                 <div class="col-3 offset-7 text-right">
-                    <a class="font-medium link next_btn" href="javascript:void(0);"><i class="icon-arrow icon-rounded"></i>Avanti</a>
+                    <a id="next_btn" class="font-medium link" href="javascript:void(0);"><i class="icon-arrow icon-rounded"></i>Avanti</a>
                 </div>
             </div>
         </div>
@@ -131,33 +130,26 @@
                     <h3 class="pt-2 line-above font-medium uppercase">partners</h3>
                     <h1 class="pt-4 font-regular font-36">Headline lorem ipsum dolor sit amet</h1>
                 </div>
-                <div class="col-7 offset-1 pt-4">
+                <div class="col-7 offset-1 pt-4 swiper-partners">
                     <div class="swiper-wrapper">
-                        <!-- First Card-->
-                        <a href="#" id="service-card1" class="p-5 service-card swiper-slide h-500">
-                            <p class="services-number font-light">01</p>
-                            <h2 class="my-5 font-light">HARDWARE & FIRMWARE DESIGN</h2>
-                            <p class="link show-more font-medium"><i class="icon-arrow"></i>Scopri di più</p>
-                        </a>
-                        <!-- Second Card-->
-                        <a href="#" id="service-card2" class="p-5 service-card swiper-slide h-500">
-                            <p class="services-number font-light">02</p>
-                            <h2 class="my-5 font-light">INDUSTRIAL ENGINEERING & AUTOMATION</h2>
-                            <p class="link show-more font-medium"><i class="icon-arrow"></i>Scopri di più</p>
-                        </a>
-                        <!-- Third Card-->
-
-                        <a href="#" id="service-card3" class="p-5 service-card swiper-slide h-500">
-                            <p class="services-number font-light">03</p>
-                            <h2 class="my-5 font-light">BACK OFFICE MANAGEMENT SOFTWARE</h2>
-                            <p class="link show-more font-medium"><i class="icon-arrow"></i>Scopri di più</p>
-                        </a>
-                        <!-- Fourth Card-->
-                        <a href="#" id="service-card4" class="p-5 service-card swiper-slide h-500">
-                            <p class="services-number font-light">04</p>
-                            <h2 class="my-5 font-light">LOREM IPSUM IPSUM</h2>
-                            <p class="link show-more font-medium"><i class="icon-arrow"></i>Scopri di più</p>
-                        </a>
+                        <div class="partner-rounded swiper-slide">
+                            icona1
+                        </div>
+                        <div class="partner-rounded swiper-slide">
+                            icona2
+                        </div>
+                        <div class="partner-rounded swiper-slide">
+                            icona3
+                        </div>
+                        <div class="partner-rounded swiper-slide">
+                            icona4
+                        </div>
+                        <div class="partner-rounded swiper-slide">
+                            icona5
+                        </div>
+                        <div class="partner-rounded swiper-slide">
+                            icona6
+                        </div>
                     </div>
                 </div>
             </div>
@@ -224,7 +216,7 @@
 
         <script src="js/jquery-3.5.1.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
-        <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+        <script src="js/swiper-bundle.min.js"></script>
         <script src="js/main.js"></script>
     </body>
 </html>
