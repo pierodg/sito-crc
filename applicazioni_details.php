@@ -153,7 +153,7 @@
                     </div>
                 </div>
                 <div class="col-1 d-flex align-items-center">
-                    <a id="next_partner" href="javascript:void(0);"><i class="icon-arrow icon-rounded"></a>
+                    <a id="next_partner" href="javascript:void(0);"><i class="icon-arrow icon-rounded"></i></a>
                 </div>
             </div>
         </div>
