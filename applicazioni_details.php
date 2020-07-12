@@ -131,12 +131,25 @@
                     <h3 class="pt-2 line-above font-medium uppercase">partners</h3>
                     <h1 class="pt-4 font-regular font-36">Headline lorem ipsum dolor sit amet</h1>
                 </div>
-                <div class="col-5 offset-2 pt-4">
+                <div class="col-7 offset-1 pt-4">
                     
                 </div>
             </div>
         </div>
-                
+
+        <div class="container-fluid p-0 m-0 position-relative">
+            <div class="row">
+                <div class="col-4 offset-3">
+                    <h3 class="pt-2 line-above font-medium uppercase">contatti</h3>
+                    <h1 class="pt-4 font-regular font-36">Contattaci per maggiori informazioni o un preventivo gratuito</h1>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-5 offset-3 text-center">
+                    form
+                </div>
+            </div>
+        </div>
 
 
         <footer class="container w-2220 font-light">
