@@ -55,12 +55,12 @@
             </div>
         </div>
 
-        <div class="container w-2220 py-80 bt-1">
-            <div class="row">
+        <div class="container w-2220">
+            <div class="row py-80 bt-1">
                 <div class="col-6">
                     <img src="asset/tab-img.png" class="img-fluid">
                 </div>
-                <div class="col-4 d-flex align-items-start">
+                <div class="col-5 offset-1 d-flex align-items-start">
                     <div class="row pt-5 h-100">
                         <div class="col-1"><span>01</span></div>
                         <div class="col-11 d-flex">
@@ -74,9 +74,9 @@
                 </div>
             </div>
         </div>
-        <div class="container w-2220 py-80 bt-1">
-            <div class="row">
-                <div class="col-4 d-flex align-items-start">
+        <div class="container w-2220">
+            <div class="row py-80 bt-1">
+                <div class="col-5 d-flex align-items-start">
                     <div class="row pt-5 h-100">
                         <div class="col-1"><span>01</span></div>
                         <div class="col-11 d-flex">
@@ -94,12 +94,12 @@
             </div>
         </div>
 
-        <div class="container w-2220 py-80 bt-1">
-            <div class="row">
+        <div class="container w-2220">
+            <div class="row py-80 bt-1">
                 <div class="col-6">
                     <img src="asset/energy_industry.png" class="img-fluid">
                 </div>
-                <div class="col-4 d-flex align-items-start">
+                <div class="col-5 offset-1 d-flex align-items-start">
                     <div class="row pt-5 h-100">
                         <div class="col-1"><span>01</span></div>
                         <div class="col-11 d-flex">
@@ -113,9 +113,9 @@
                 </div>
             </div>
         </div>
-        <div class="container w-2220 py-80 bt-1">
-            <div class="row">
-                <div class="col-4 d-flex align-items-start">
+        <div class="container w-2220">
+            <div class="row py-80 bt-1">
+                <div class="col-5 d-flex align-items-start">
                     <div class="row pt-5 h-100">
                         <div class="col-1"><span>01</span></div>
                         <div class="col-11 d-flex">
@@ -133,12 +133,12 @@
             </div>
         </div>
 
-        <div class="container w-2220 py-80 bt-1">
-            <div class="row">
+        <div class="container w-2220">
+            <div class="row py-80 bt-1">
                 <div class="col-6">
                     <img src="asset/consumer_electronics.png" class="img-fluid">
                 </div>
-                <div class="col-4 d-flex align-items-start">
+                <div class="col-5 offset-1 d-flex align-items-start">
                     <div class="row pt-5 h-100">
                         <div class="col-1"><span>01</span></div>
                         <div class="col-11 d-flex">
@@ -152,9 +152,9 @@
                 </div>
             </div>
         </div>
-        <div class="container w-2220 py-80 bt-1 bb-1 mb-100">
-            <div class="row">
-                <div class="col-4 d-flex align-items-start">
+        <div class="container w-2220 mb-100">
+            <div class="row py-80 bt-1 bb-1">
+                <div class="col-5 d-flex align-items-start">
                     <div class="row pt-5 h-100">
                         <div class="col-1"><span>01</span></div>
                         <div class="col-11 d-flex">
