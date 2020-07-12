@@ -246,6 +246,14 @@ a:hover {
     font-size: 20px;
     color:#0044ff;
 }
+.text-rotate-inv {
+    font-size:11px;
+    transform: rotate(-90deg);
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+}
 .social-bar {
     padding:0px;
 }
@@ -340,7 +348,6 @@ h5 {
 }
 footer {
     font-size: 13px;
-
 }
 footer li {
     padding-bottom: 10px;
@@ -349,9 +356,6 @@ footer li {
 
 #news h1 {
     font-size: 32px;
-}
-#chi_siamo h1 {
-    font-size: 36px;
 }
 .icon-rounded {
     border-radius:50%;
@@ -386,9 +390,17 @@ footer li {
 }
 .details h2 {
     font-size:48px;
-    text-transform: uppercase;
 }
 .py-80 {
     padding-top:80px;
     padding-bottom:80px;
+}
+.uppercase {
+    text-transform: uppercase;
+}
+.font-36 {
+    font-size:36px;
+}
+.font-60 {
+    font-size:60px;
 }

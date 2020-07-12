@@ -205,7 +205,7 @@
             <div class="row pt-180 pb-60">
                 <div class="col-4 offset-3">
                     <h3 class="mt-2 line-above font-medium">CHI SIAMO</h3>
-                    <h1 class="pt-4 font-regular">CR&C headline chi siamo lorem ipsum title</h1>
+                    <h1 class="pt-4 font-regular font-36">CR&C headline chi siamo lorem ipsum title</h1>
                 </div>
                 <div class="col-5 d-flex justify-content-end align-items-center">
                     <button class="btn my-btn rounded-pill py-3 px-5">Contattaci</button>
@@ -213,15 +213,15 @@
             </div>
             <div class="row">
                 <div class="col-4 text-center">
-                    <h1 class="big-numb font-weight-light count font-light">40</h1>
+                    <h1 class="big-numb font-light count font-light">40</h1>
                     <p class="font-regular link">Anni di esperienza</p>
                 </div>
                 <div class="col-4 text-center">
-                    <h1 class="big-numb font-weight-light count font-light">65</h1>
+                    <h1 class="big-numb font-light count font-light">65</h1>
                     <p class="font-regular link">Ingegneri</p>
                 </div>
                 <div class="col-4 text-center">
-                    <h1 class="big-numb font-weight-light count font-light">1500</h1>
+                    <h1 class="big-numb font-light count font-light">1500</h1>
                     <p class="font-regular link">di Laboratori</p>
                 </div>
             </div>

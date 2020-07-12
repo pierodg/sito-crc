@@ -3,7 +3,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-        <title>CRC - Applicazioni</title>
+        <title>CRC - WebSite</title>
 
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -24,7 +24,7 @@
         </symbol>
         </svg>
         <div class="container w-2220">
-            <nav class="navmenu navbar navbar-expand-sm border-bottom border-dark">
+            <nav class="navmenu navbar navbar-expand-sm">
                 <a class="navbar-brand" href="#"><svg class="logo"><use xlink:href="#logo" xmlns:xlink="http://www.w3.org/1999/xlink"></use></svg></a>
                 <ul class="navbar-nav ml-auto">
                     <li class="mr-4 nav-item">
@@ -45,133 +45,100 @@
                 </ul>
             </nav>
         </div>
-        
+
         <div class="container w-2220 p-4">
-            <div class="row py-4">
-                <div class="col-8 offset-1">
-                    <h3 class="font-medium">Applicazioni</h3>
-                    <h1 class="font-regular pt-4">Tutti i settori di industria</h1>
+            <div class="row py-4 bb-1">
+                <div class="col-12">
+                    <h3 class="font-medium uppercase">Applicazioni</h3>
                 </div>
             </div>
         </div>
-
+        
         <div class="container w-2220">
-            <div class="row py-80 bt-1">
-                <div class="col-6">
+            <div class="row pb-60">
+                <div class="col-12">
+                    <h2 class="uppercase font-60 font-regular">telecom equipment</h2>
+                </div>
+            </div>
+            <div class="row pb-60">
+                <div class="col-3 d-flex align-items-center">
+                    <a href="javascript:void(0);" class="link font-medium text-rotate-inv"><i class="icon-arrow icon-rounded"></i>Scopri</a>
+                </div>
+                <div class="col-9">
                     <img src="asset/tab-img.png" class="img-fluid">
                 </div>
-                <div class="col-5 offset-1 d-flex align-items-start">
-                    <div class="row pt-5 h-100">
-                        <div class="col-1"><span>01</span></div>
-                        <div class="col-11 d-flex">
-                            <div class="pl-5 details d-flex flex-column justify-content-between">
-                                <h2 class="uppercase">Telecom equipment</h2>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis voluptates esse ullam numquam at aliquid hic. Aperiam cum nam sint blanditiis! Qui sit porro dolore consequuntur! Rem, quas. Fugit, quia!</p>
-                                <a href="javascript:void(0);" class="link font-medium"><i class="icon-arrow"></i>Scopri di più</a>
-                            </div>
-                        </div>
-                    </div>
+            </div>
+        </div>
+        
+        <div class="container-fluid p-0 m-0">
+            <div class="row pt-180 pb-60">
+                <div class="col-3 offset-1 pr-0">
+                    <h3 class="pt-2 line-above font-medium uppercase">descrizione</h3>
+                    <h1 class="pt-4 font-regular font-36">Headline lorem ipsum dolor sit amet</h1>
+                </div>
+                <div class="col-5 offset-2 pt-4">
+                    <p class="pt-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, quod dolorum aliquam perferendis impedit omnis suscipit, unde neque expedita eveniet atque necessitatibus numquam, in et maiores praesentium ullam ipsa nisi!</p>
                 </div>
             </div>
         </div>
-        <div class="container w-2220">
-            <div class="row py-80 bt-1">
-                <div class="col-5 d-flex align-items-start">
-                    <div class="row pt-5 h-100">
-                        <div class="col-1"><span>01</span></div>
-                        <div class="col-11 d-flex">
-                            <div class="pl-5 details d-flex flex-column justify-content-between">
-                                <h2 class="uppercase">Telecom equipment</h2>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis voluptates esse ullam numquam at aliquid hic. Aperiam cum nam sint blanditiis! Qui sit porro dolore consequuntur! Rem, quas. Fugit, quia!</p>
-                                <a href="javascript:void(0);" class="link font-medium"><i class="icon-arrow"></i>Scopri di più</a>
-                            </div>
-                        </div>
+        <div class="container-fluid p-0 m-0">
+            <div class="row pt-180 pb-60">
+                <div class="col-3 offset-1 pr-0">
+                    <h3 class="pt-2 line-above font-medium uppercase">i prodotti</h3>
+                </div>
+            </div>
+            <div class="row">
+                <div id="services" class="w-100 h-75 swiper-services">
+                    <div class="swiper-wrapper">
+                        <!-- First Card-->
+                        <a href="#" id="service-card1" class="p-5 service-card swiper-slide h-500">
+                            <p class="services-number font-light">01</p>
+                            <h2 class="my-5 font-light">HARDWARE & FIRMWARE DESIGN</h2>
+                            <p class="link show-more font-medium"><i class="icon-arrow"></i>Scopri di più</p>
+                        </a>
+                        <!-- Second Card-->
+                        <a href="#" id="service-card2" class="p-5 service-card swiper-slide h-500">
+                            <p class="services-number font-light">02</p>
+                            <h2 class="my-5 font-light">INDUSTRIAL ENGINEERING & AUTOMATION</h2>
+                            <p class="link show-more font-medium"><i class="icon-arrow"></i>Scopri di più</p>
+                        </a>
+                        <!-- Third Card-->
+
+                        <a href="#" id="service-card3" class="p-5 service-card swiper-slide h-500">
+                            <p class="services-number font-light">03</p>
+                            <h2 class="my-5 font-light">BACK OFFICE MANAGEMENT SOFTWARE</h2>
+                            <p class="link show-more font-medium"><i class="icon-arrow"></i>Scopri di più</p>
+                        </a>
+                        <!-- Fourth Card-->
+                        <a href="#" id="service-card4" class="p-5 service-card swiper-slide h-500">
+                            <p class="services-number font-light">04</p>
+                            <h2 class="my-5 font-light">LOREM IPSUM IPSUM</h2>
+                            <p class="link show-more font-medium"><i class="icon-arrow"></i>Scopri di più</p>
+                        </a>
                     </div>
                 </div>
-                <div class="col-6 offset-1">
-                    <img src="asset/shutterstock_1071679382.png" class="img-fluid">
+            </div>
+            <div class="row pt-5">
+                <div class="col-3 offset-7 text-right">
+                    <a class="font-medium link next_btn" href="javascript:void(0);"><i class="icon-arrow icon-rounded"></i>Avanti</a>
                 </div>
             </div>
         </div>
 
-        <div class="container w-2220">
-            <div class="row py-80 bt-1">
-                <div class="col-6">
-                    <img src="asset/energy_industry.png" class="img-fluid">
+        <div class="container-fluid p-0 m-0">
+            <div class="row pt-180 pb-60">
+                <div class="col-3 offset-1 pr-0">
+                    <h3 class="pt-2 line-above font-medium uppercase">partners</h3>
+                    <h1 class="pt-4 font-regular font-36">Headline lorem ipsum dolor sit amet</h1>
                 </div>
-                <div class="col-5 offset-1 d-flex align-items-start">
-                    <div class="row pt-5 h-100">
-                        <div class="col-1"><span>01</span></div>
-                        <div class="col-11 d-flex">
-                            <div class="pl-5 details d-flex flex-column justify-content-between">
-                                <h2 class="uppercase">Telecom equipment</h2>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis voluptates esse ullam numquam at aliquid hic. Aperiam cum nam sint blanditiis! Qui sit porro dolore consequuntur! Rem, quas. Fugit, quia!</p>
-                                <a href="javascript:void(0);" class="link font-medium"><i class="icon-arrow"></i>Scopri di più</a>
-                            </div>
-                        </div>
-                    </div>
+                <div class="col-5 offset-2 pt-4">
+                    
                 </div>
             </div>
         </div>
-        <div class="container w-2220">
-            <div class="row py-80 bt-1">
-                <div class="col-5 d-flex align-items-start">
-                    <div class="row pt-5 h-100">
-                        <div class="col-1"><span>01</span></div>
-                        <div class="col-11 d-flex">
-                            <div class="pl-5 details d-flex flex-column justify-content-between">
-                                <h2 class="uppercase">Telecom equipment</h2>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis voluptates esse ullam numquam at aliquid hic. Aperiam cum nam sint blanditiis! Qui sit porro dolore consequuntur! Rem, quas. Fugit, quia!</p>
-                                <a href="javascript:void(0);" class="link font-medium"><i class="icon-arrow"></i>Scopri di più</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-6 offset-1">
-                    <img src="asset/automotive.png" class="img-fluid">
-                </div>
-            </div>
-        </div>
+                
 
-        <div class="container w-2220">
-            <div class="row py-80 bt-1">
-                <div class="col-6">
-                    <img src="asset/consumer_electronics.png" class="img-fluid">
-                </div>
-                <div class="col-5 offset-1 d-flex align-items-start">
-                    <div class="row pt-5 h-100">
-                        <div class="col-1"><span>01</span></div>
-                        <div class="col-11 d-flex">
-                            <div class="pl-5 details d-flex flex-column justify-content-between">
-                                <h2 class="uppercase">Telecom equipment</h2>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis voluptates esse ullam numquam at aliquid hic. Aperiam cum nam sint blanditiis! Qui sit porro dolore consequuntur! Rem, quas. Fugit, quia!</p>
-                                <a href="javascript:void(0);" class="link font-medium"><i class="icon-arrow"></i>Scopri di più</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="container w-2220 mb-100">
-            <div class="row py-80 bt-1 bb-1">
-                <div class="col-5 d-flex align-items-start">
-                    <div class="row pt-5 h-100">
-                        <div class="col-1"><span>01</span></div>
-                        <div class="col-11 d-flex">
-                            <div class="pl-5 details d-flex flex-column justify-content-between">
-                                <h2 class="uppercase">Telecom equipment</h2>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis voluptates esse ullam numquam at aliquid hic. Aperiam cum nam sint blanditiis! Qui sit porro dolore consequuntur! Rem, quas. Fugit, quia!</p>
-                                <a href="javascript:void(0);" class="link font-medium"><i class="icon-arrow"></i>Scopri di più</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-6 offset-1">
-                    <img src="asset/ottica.png" class="img-fluid">
-                </div>
-            </div>
-        </div>
-       
+
         <footer class="container w-2220 font-light">
             <div class="row line-above pt-5 pb-3">
                 <div class="col-6 pl-0">
@@ -216,10 +183,9 @@
             </div>
         </footer>
 
-
-
         <script src="js/jquery-3.5.1.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
         <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+        <script src="js/main.js"></script>
     </body>
 </html>
