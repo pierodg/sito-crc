@@ -159,21 +159,16 @@ a:hover {
 }
 
 .service-card {
-    border-left: black solid 1px;
+    border-left: #000 solid 1px;
     position: relative;
+}
+.service-card:first-child {
+    border: 0px;
 }
 
 .show-more {
     position: absolute;
     bottom: 30;
-}
-
-.service-card:hover > .services-number {
-    color: white!important;
-}
-.service-card:hover {
-    color: white;
-    transition: 1s;
 }
 
 .active {

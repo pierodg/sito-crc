@@ -45,10 +45,18 @@ $(document).ready(function(){
 
     $('[data-bg]').mouseenter(function(e){
         e.preventDefault();
-        $(this).css('background-image', 'url('+$(this).data('bg')+')');
+        $(this).css({
+            'background-image':'url('+$(this).data('bg')+')',
+            'transition':'0.7s ease-in',
+            'color':'#fff'
+        });
     });
     $('[data-bg]').mouseleave(function(e){
         e.preventDefault();
-        $(this).css('background-image', 'none');
+        $(this).css({
+            'background-image':'none',
+            'transition':'0.7s ease-out',
+            'color':'#000'
+        });
     });
 });
