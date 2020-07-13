@@ -81,6 +81,7 @@ $(document).ready(function(){
             'color':'#fff'
         });
         $(value).find('a').css('color','#fff');
+        $(value).find('[data-display]').toggleClass('d-none');
     });
     $('[data-img]').mouseenter(function(e){
         e.preventDefault();
@@ -90,6 +91,7 @@ $(document).ready(function(){
             'color':'#000'
         });
         $(this).find('a').css('color','#000');
+        $(this).find('[data-display]').toggleClass('d-none');
     });
     $('[data-img]').mouseleave(function(e){
         e.preventDefault();
@@ -99,6 +101,6 @@ $(document).ready(function(){
             'color':'#fff'
         });
         $(this).find('a').css('color','#fff');
-
+        $(this).find('[data-display]').toggleClass('d-none');
     });
 });
