@@ -94,7 +94,7 @@
                     </li>
                 </ul>
             </nav>
-        <!-- Additional required wrapper -->
+            <!-- Additional required wrapper -->
             <div class="swiper-wrapper d-flex">
             <!-- Slides -->
                 <div class="swiper-slide d-flex align-items-center" style="background-image:url('asset/img.png');">
@@ -112,7 +112,6 @@
             </div>
             <div class="swiper-scrollbar col-4"></div>
             <div class="swiper-pagination col-4 text-left pl-5 pb-5"></div>
-            
         </div>
         
 
