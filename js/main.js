@@ -33,6 +33,13 @@ $(document).ready(function(){
         nextButton: '#next_partner'
     });
 
+    var about = new Swiper('.swiper-chi-siamo', {
+        loop: true,
+        spaceBetween: 30,
+        slidesPerView: 1,
+        nextButton: '#next_about'
+    });
+
     $("#next_btn").click(function(e){
         e.preventDefault();
         services.slideNext();
@@ -42,6 +49,11 @@ $(document).ready(function(){
     $("#next_partner").click(function(e){
         e.preventDefault();
         partners.slideNext();
+    });
+
+    $("#next_about").click(function(e){
+        e.preventDefault();
+        about.slideNext();
     });
 
 
