@@ -104,6 +104,26 @@
                     <a href="javascript:void(0);" class="link font-medium"><i class="icon-arrow"></i>Scopri di più</a>
                 </div>
             </div>
+            <div class="row pt-5">
+                <div class="col-4">
+                    <img src="foto/news-01.png" alt="" class="img-fluid">
+                    <p class="fs-12 active font-light pt-4">CATEGORY</p>
+                    <h5 class="py-4">CRC&C ha completato l'instalalzione di pannelli fotovoltaici industriali</h5>
+                    <a href="javascript:void(0);" class="link font-medium"><i class="icon-arrow"></i>Scopri di più</a>
+                </div>
+                <div class="col-4">
+                    <img src="foto/news-01.png" alt="" class="img-fluid">
+                    <p class="fs-12 active font-light pt-4">CATEGORY</p>
+                    <h5 class="py-4">CRC&C ha completato l'instalalzione di pannelli fotovoltaici industriali</h5>
+                    <a href="javascript:void(0);" class="link font-medium"><i class="icon-arrow"></i>Scopri di più</a>
+                </div>
+                <div class="col-4">
+                    <img src="foto/news-01.png" alt="" class="img-fluid">
+                    <p class="fs-12 active font-light pt-4">CATEGORY</p>
+                    <h5 class="py-4">CRC&C ha completato l'instalalzione di pannelli fotovoltaici industriali</h5>
+                    <a href="javascript:void(0);" class="link font-medium"><i class="icon-arrow"></i>Scopri di più</a>
+                </div>
+            </div>
             <div class="col-2 py-5 offset-10 text-right">
                 <a id="next_btn" class="font-medium link" href="javascript:void(0);">1<i class="icon-arrow icon-rounded"></i></a>
             </div>
