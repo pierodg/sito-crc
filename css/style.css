@@ -348,6 +348,10 @@ footer li {
 .bb-1 {
     border-bottom: 1px solid black;
 }
+.bx-1 {
+    border-left:1px solid black;
+    border-right: 1px solid black;
+}
 .mb-100 {
     margin-bottom:100px;
 }

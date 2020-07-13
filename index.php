@@ -170,7 +170,6 @@
                     <h3 class="w-75 pt-2 line-above font-medium">APPLICAZIONI</h3>
                     <h1 class="pt-4 font-regular">Industrie di applicazione lorem ipsum headline</h1>
                 </div>
-
             </div>
             <div class="row">
                 <div class="col-8">

@@ -24,7 +24,7 @@
         </symbol>
         </svg>
         <div class="container w-2220">
-            <nav class="navmenu navbar navbar-expand-sm border-bottom border-dark">
+            <nav class="navmenu navbar navbar-expand-sm">
                 <a class="navbar-brand" href="#"><svg class="logo"><use xlink:href="#logo" xmlns:xlink="http://www.w3.org/1999/xlink"></use></svg></a>
                 <ul class="navbar-nav ml-auto">
                     <li class="mr-4 nav-item">
@@ -46,57 +46,64 @@
             </nav>
         </div>
         
-        <div class="container w-2220 p-4">
-            <div class="row py-4">
-                <div class="col-8 offset-1">
-                    <h3 class="font-medium">Servizi</h3>
-                    <h1 class="font-regular pt-4">Scopri tutti i servizi di CR&C</h1>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-4">
+                    <img src="foto/servizi-details-01.png" class="img-fluid" alt="">
+                </div>
+                <div class="col-6 offset-2">
+                    <h3 class="w-75 pt-2 line-above font-medium">INTRO</h3>
+                    <h1 class="pt-4 font-regular font-36">CR&C Fornisce Soluzioni complete per la Gestione dei banchi di prova e l'automazione secondo Industry 4.0.</h1>
+                    <p class="pt-5 font-light fs-15">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed ad nemo totam nostrum officiis odit. Repellat laudantium ipsam eveniet fuga, doloribus sapiente provident inventore ipsa iusto voluptas mollitia, iste eligendi?</p>  
                 </div>
             </div>
         </div>
 
-        <div class="mb-100 container w-2220">
-            <div class="row bt-1">
-                <a href="#"  class="p-5 col-4 h-500">
-                    <p class="services-number font-light">01</p>
-                    <h2 class="my-5 font-light">HARDWARE & FIRMWARE DESIGN</h2>
-                    <p class="">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi nemo necessitatibus repellendus, error dicta consequuntur porro sit esse vero, sapiente minus veniam, maiores maxime aliquam quae illo modi corrupti reiciendis?</p>
-                    <p class="link show-more font-medium"><i class="icon-arrow"></i>Scopri di più</p>
-                </a>
-                <a href="#" class="p-5 col-4 bx-1 h-500">
-                    <p class="services-number font-light">02</p>
-                    <h2 class="my-5 font-light">INDUSTRIAL ENGINEERING & AUTOMATION</h2>
-                    <p class="">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi nemo necessitatibus repellendus, error dicta consequuntur porro sit esse vero, sapiente minus veniam, maiores maxime aliquam quae illo modi corrupti reiciendis?</p>
-                    <p class="link show-more font-medium"><i class="icon-arrow"></i>Scopri di più</p>
-                </a>
-                <a href="#" class="p-5 col-4 h-500">
-                        <p class="services-number font-light">03</p>
-                        <h2 class="my-5 font-light">BACK OFFICE MANAGEMENT SOFTWARE</h2>
-                        <p class="">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi nemo necessitatibus repellendus, error dicta consequuntur porro sit esse vero, sapiente minus veniam, maiores maxime aliquam quae illo modi corrupti reiciendis?</p>
-
-                        <p class="link show-more font-medium"><i class="icon-arrow"></i>Scopri di più</p>
-                    </a>
+       
+        <div class="container-fluid p-0 m-0">
+            <div class="row pt-180 pb-60">
+                <div class="col-3 offset-1 pr-0">
+                    <h3 class="pt-2 line-above font-medium uppercase">i prodotti</h3>
+                </div>
             </div>
-            <div class="row bb-1 bt-1">
-                <a href="#"  class="p-5 col-4 h-500">
-                    <p class="services-number font-light">04</p>
-                    <h2 class="my-5 font-light">TESTING & REPAIR SERVICES</h2>
-                    <p class="">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi nemo necessitatibus repellendus, error dicta consequuntur porro sit esse vero, sapiente minus veniam, maiores maxime aliquam quae illo modi corrupti reiciendis?</p>
-                    <p class="link show-more font-medium"><i class="icon-arrow"></i>Scopri di più</p>
-                </a>
-                <a href="#" class="p-5 col-4 bx-1 h-500">
-                    <p class="services-number font-light">05</p>
-                    <h2 class="my-5 font-light">FAILURE ANALYSIS SERVICES</h2>
-                    <p class="">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi nemo necessitatibus repellendus, error dicta consequuntur porro sit esse vero, sapiente minus veniam, maiores maxime aliquam quae illo modi corrupti reiciendis?</p>
-                    <p class="link show-more font-medium"><i class="icon-arrow"></i>Scopri di più</p>
-                </a>
-                <a href="#" class="p-5 col-4 h-500">
-                        <h2 class="my-5 font-light">Contattaci per maggiori informazioni</h2>
-
-                        <p class="link show-more font-medium"><i class="icon-arrow"></i>Contattaci</p>
-                    </a>
+            <div class="row">
+                <div id="services" class="w-100 h-75 swiper-services">
+                    <div class="swiper-wrapper">
+                        <!-- First Card-->
+                        <a href="#" class="p-5 service-card swiper-slide h-500" data-bg="asset/card1.png">
+                            <p class="services-number font-light">01</p>
+                            <h2 class="my-5 font-light">HARDWARE & FIRMWARE DESIGN</h2>
+                            <p class="link show-more font-medium"><i class="icon-arrow"></i>Dettaglio prodotto</p>
+                        </a>
+                        <!-- Second Card-->
+                        <a href="#" class="p-5 service-card swiper-slide h-500" data-bg="asset/card1.png">
+                            <p class="services-number font-light">02</p>
+                            <h2 class="my-5 font-light">INDUSTRIAL ENGINEERING & AUTOMATION</h2>
+                            <p class="link show-more font-medium"><i class="icon-arrow"></i>Dettaglio prodotto</p>
+                        </a>
+                        <!-- Third Card-->
+                        <a href="#" class="p-5 service-card swiper-slide h-500" data-bg="asset/card1.png">
+                            <p class="services-number font-light">03</p>
+                            <h2 class="my-5 font-light">BACK OFFICE MANAGEMENT SOFTWARE</h2>
+                            <p class="link show-more font-medium"><i class="icon-arrow"></i>Dettaglio prodotto</p>
+                        </a>
+                        <!-- Fourth Card-->
+                        <a href="#" class="p-5 service-card swiper-slide h-500" data-bg="asset/card1.png">
+                            <p class="services-number font-light">04</p>
+                            <h2 class="my-5 font-light">LOREM IPSUM IPSUM</h2>
+                            <p class="link show-more font-medium"><i class="icon-arrow"></i>Dettaglio prodotto</p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="row pt-5">
+                <div class="col-3 offset-7 text-right">
+                    <a id="next_btn" class="font-medium link" href="javascript:void(0);"><i class="icon-arrow icon-rounded"></i>Avanti</a>
+                </div>
             </div>
         </div>
+       
 
         
 
