@@ -74,12 +74,12 @@
         </div>
         
 
-        <div class="container pt-90">
+        <div class="container-fluid pt-90">
             <div class="row">
-                <div class="col-5">
+                <div class="col-3 offset-1">
                     <img src="foto/servizi-details-01.png" class="img-fluid" alt="">
                 </div>
-                <div class="col-6 offset-1">
+                <div class="col-4 offset-2">
                     <h3 class="w-75 pt-2 line-above font-medium">INTRO</h3>
                     <h1 class="pt-4 font-regular font-36">CR&C Fornisce Soluzioni complete per la Gestione dei banchi di prova e l'automazione secondo Industry 4.0.</h1>
                     <p class="pt-5 font-light fs-15">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed ad nemo totam nostrum officiis odit. Repellat laudantium ipsam eveniet fuga, doloribus sapiente provident inventore ipsa iusto voluptas mollitia, iste eligendi?</p>  
@@ -90,8 +90,8 @@
        
         <div class="container-fluid p-0 m-0">
             <div class="row pt-180 pb-60">
-                <div class="col-3 offset-1 pr-0">
-                    <h3 class="pt-2 line-above font-medium uppercase">i prodotti</h3>
+                <div class="col-3 offset-1 pr-0 d-flex justify-content-end">
+                    <h3 class="pt-2 w-75 line-above font-medium uppercase">i prodotti</h3>
                 </div>
             </div>
             <div class="row">
