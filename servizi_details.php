@@ -63,11 +63,12 @@
                     <div class="pl-5">
                         <p class="w-50 pb-4 bb-1-light">Servizi</p>
                         <h1 class="pt-5 header-text">Industrial engineering & automation</h1>
-                        <div class="text-rotate">
-                            <a href="javascript:void(0);" class="link font-medium">Continua</a><i class="icon-arrow icon-rounded"></i>
-                        </div>
+                        
                     </div>
                 </div>
+            </div>
+            <div class="text-rotate col-4">
+                <a href="javascript:void(0);" class="link font-medium">Continua</a><i class="icon-arrow icon-rounded"></i>
             </div>
 
         </div>
