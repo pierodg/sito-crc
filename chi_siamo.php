@@ -76,8 +76,8 @@
                     </h2>
                 </div>
                 <div class="col-5 offset-2 text-center">
-                    <p class="fs-12">Fondazione di CR&C </p>
-                    <h1 class="big-numb font-light count font-light services-number">2004</h1>
+                    <p class="fs-12 font-regular">Fondazione di CR&C </p>
+                    <h1 class="big-numb font-light services-number">2004</h1>
                     <p class="pt-4 text-left fs-15">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima perspiciatis atque eos ea cupiditate at esse. Necessitatibus ducimus at consequuntur non corporis maxime, quod perspiciatis delectus nemo adipisci eveniet facilis!</p>
                 </div>
             </div>
@@ -103,7 +103,7 @@
                             </div>
                             <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
                                 <div class="pt-4">
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae dicta, mollitia itaque molestiae optio ut, sed architecto voluptas eius, sit assumenda saepe velit ratione vero incidunt laborum maiores. Laborum, id?</p>
+                                    <p class="font-light fs-15">Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae dicta, mollitia itaque molestiae optio ut, sed architecto voluptas eius, sit assumenda saepe velit ratione vero incidunt laborum maiores. Laborum, id?</p>
                                 </div>
                             </div>
                         </div>
@@ -115,7 +115,7 @@
                            </div>
                             <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
                                 <div class="pt-4">
-                                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Suscipit, ex reiciendis velit, modi harum excepturi dolor voluptatum earum mollitia rem minima ratione error aliquid vero fugiat quam quas rerum fuga.</p>
+                                    <p class="font-light fs-15">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Suscipit, ex reiciendis velit, modi harum excepturi dolor voluptatum earum mollitia rem minima ratione error aliquid vero fugiat quam quas rerum fuga.</p>
                                 </div>
                             </div>
                         </div>
@@ -127,7 +127,7 @@
                             </div>
                             <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                                 <div class="pt-4">
-                                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                                    <p class="font-light fs-15">Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.</p>
                                 </div>
                             </div>
                         </div>
@@ -140,23 +140,34 @@
                 
         <div id="chi_siamo" class="container">
             <div class="row pt-180 pb-60">
-                <div class="col-4 offset-4">
+                <div class="col-5 offset-4">
                     <h3 class="pt-2 line-above font-medium uppercase">I nostri numeri</h3>
                     <h1 class="pt-5 font-regular fs-24">CR&C headline chi siamo lorem ipsum title</h1>
                 </div>
             </div>
             <div class="row">
                 <div class="col-4 text-center">
-                    <h1 class="big-numb font-light count font-light">40</h1>
+                    <h1 class="big-numb font-light count">40</h1>
                     <p class="font-regular link">Anni di esperienza</p>
                 </div>
                 <div class="col-4 text-center">
-                    <h1 class="big-numb font-light count font-light">65</h1>
+                    <h1 class="big-numb font-light count">65</h1>
                     <p class="font-regular link">Ingegneri</p>
                 </div>
                 <div class="col-4 text-center">
-                    <h1 class="big-numb font-light count font-light">1500</h1>
+                    <h1 class="big-numb font-light count">1500</h1>
                     <p class="font-regular link">di Laboratori</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="container pt-90">
+            <div class="row">
+                <div class="col-5 offset-3">
+                    <h1 class="font-36">Certificazione UNI EN ISO 9001:2015</h1>
+                </div>
+                <div class="col-3 offset-1">
+                    <img src="foto/certificato.png" alt="certificato">
                 </div>
             </div>
         </div>
