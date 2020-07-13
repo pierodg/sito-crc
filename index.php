@@ -202,7 +202,7 @@
         <div id="chi_siamo" class="container">
             <div class="row pt-180 pb-60">
                 <div class="col-4 offset-3">
-                    <h3 class="mt-2 line-above font-medium">CHI SIAMO</h3>
+                    <h3 class="pt-2 line-above font-medium">CHI SIAMO</h3>
                     <h1 class="pt-4 font-regular font-36">CR&C headline chi siamo lorem ipsum title</h1>
                 </div>
                 <div class="col-5 d-flex justify-content-end align-items-center">

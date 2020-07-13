@@ -103,7 +103,17 @@
                 </div>
             </div>
         </div>
-       
+
+        <div id="chi_siamo" class="container">
+            <div class="row pt-180 pb-60">
+                <div class="col-4 offset-3">
+                    <h3 class="mt-2 line-above font-medium">CHI SIAMO</h3>
+                </div>
+                <div class="col-7 offset-3">
+                    <h1 class="pt-4 font-regular font-36">Contattaci per maggiori informazioni o un preventivo gratuito</h1>
+                </div>
+            </div>
+        </div>
 
         
 
@@ -160,5 +170,7 @@
         <script src="js/jquery-3.5.1.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
         <script src="js/swiper-bundle.min.js"></script>
+        <script src="js/main.js"></script>
+
     </body>
 </html>
