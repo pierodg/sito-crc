@@ -273,9 +273,13 @@ h5 {
     
   }
 
-  
+
 .fs-12 {
     font-size:12px
+}
+
+.fs-14 {
+    font-size: 14px;
 }
 .fs-15 {
     font-size:15px;
@@ -285,6 +289,9 @@ h5 {
 }
 .fs-36 {
     font-size: 36px;
+}
+.fs-60 {
+    font-size: 60px
 }
 .swiper-container {
     margin-left: 0;

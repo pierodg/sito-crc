@@ -249,7 +249,7 @@
         <div id="news" class="container mt-5">
             <div class="row pt-90 pb-90">
                 <div class="col-3">    
-                    <h3 class="line-above font-medium">NEWS</h3>
+                    <h3 class="pt-2 line-above font-medium">NEWS</h3>
                     <h1 class="py-4 font-regular">Leggi le utlime news di CR&C</h1>
                     <a href="javascript:void(0);" class="link font-medium"><i class="icon-arrow"></i>Tutte le news</a>
                 </div>
