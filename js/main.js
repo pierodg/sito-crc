@@ -73,4 +73,32 @@ $(document).ready(function(){
             'color':'#000'
         });
     });
+
+    $.each($('[data-img]'), function(index, value) {
+        $(value).css({
+            'background-image':'url('+$(value).data('img')+')',
+            'transition':'0.7s ease-in',
+            'color':'#fff'
+        });
+        $(value).find('a').css('color','#fff');
+    });
+    $('[data-img]').mouseenter(function(e){
+        e.preventDefault();
+        $(this).css({
+            'background-image':'none',
+            'transition':'0.7s ease-in',
+            'color':'#000'
+        });
+        $(this).find('a').css('color','#000');
+    });
+    $('[data-img]').mouseleave(function(e){
+        e.preventDefault();
+        $(this).css({
+            'background-image':'url('+$(this).data('img')+')',
+            'transition':'0.7s ease-out',
+            'color':'#fff'
+        });
+        $(this).find('a').css('color','#fff');
+
+    });
 });
