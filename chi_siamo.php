@@ -62,21 +62,21 @@
             </svg>
             <div class="row pt-90">
                 <div class="col-10 offset-2">
-                    <img class="img-fluid" src="asset/img2.png" >
+                    <img class="img-fluid" src="foto/chi-siamo-02.jpg" >
                 </div>
             </div>
         </div>
 
         <div class="pt-90 container">
             <div class="row">
-                <div class="col-4">
+                <div class="col-4 offset-1">
                     <h3 class="pt-2 line-above font-medium uppercase">la nostra storia</h3>
                     <h2 class="pt-5 fs-24 font-regular">
                         Founded in 2004, and based on more than 40 years experience of their engineers with past experience in Big Original equipment manufacturer
                     </h2>
                 </div>
-                <div class="col-6 offset-2 text-center">
-                    <p>Fondazione di CR&C </p>
+                <div class="col-5 offset-2 text-center">
+                    <p class="fs-12">Fondazione di CR&C </p>
                     <h1 class="big-numb font-light count font-light services-number">2004</h1>
                     <p class="pt-4 text-left fs-15">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima perspiciatis atque eos ea cupiditate at esse. Necessitatibus ducimus at consequuntur non corporis maxime, quod perspiciatis delectus nemo adipisci eveniet facilis!</p>
                 </div>
@@ -90,14 +90,14 @@
 
         <div class="container pt-90">
             <div class="row">
-                <div class="col-7">
-                    <img class="img-fluid" src="" alt="">
+                <div class="col-6">
+                    <img class="img-fluid" src="foto/chi_siamo-1.png" alt="">
                 </div>
-                <div class="col-5">
+                <div class="col-5 offset-1">
                     <div id="accordion">
-                        <div class="pt-4">
+                        <div>
                             <div class="" id="headingOne">
-                                <h1 class="mb-0" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                <h1 class="mb-0 accordion-header" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                     Mission
                                 </h1>
                             </div>
@@ -109,7 +109,7 @@
                         </div>
                         <div class="pt-4">
                             <div class="" id="headingTwo">
-                                <h1 class="mb-0" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                <h1 class="mb-0 accordion-header" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                                     Vision
                                 </h1>
                            </div>
@@ -121,7 +121,7 @@
                         </div>
                         <div class="pt-4">
                             <div class="" id="headingThree">
-                                <h1 class="mb-0" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                <h1 class="mb-0 accordion-header" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                                    Value
                                 </h1>
                             </div>
