@@ -139,9 +139,10 @@ a:hover {
     padding-bottom:60px;
 }
 
-#services {
+#services,
+.swiper-partners,
+.swiper-chi-siamo {
     overflow: hidden;
-    
 }
 .services-number{
     color: #0044ff;
@@ -158,10 +159,6 @@ a:hover {
     background-size: cover;
     background-position: center;
 }
-.swiper-partners {
-    overflow: hidden;
-}
-
 .service-card {
     border-left: #000 solid 1px;
     position: relative;
@@ -438,4 +435,11 @@ footer li {
     background-color:transparent;
     border:1px solid rgba(255,255,255,.7);
     color:#fff;
+}
+.w-100px {
+    width:100px;
+}
+.swiper-chi-siamo {
+    width:100%;
+    height:100%;
 }
