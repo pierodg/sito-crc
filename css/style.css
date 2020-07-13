@@ -283,6 +283,9 @@ h5 {
 .fs-24 {
     font-size:24px
 }
+.fs-36 {
+    font-size: 36px;
+}
 .swiper-container {
     margin-left: 0;
     margin-right: 0;
@@ -363,6 +366,10 @@ footer li {
 .bx-1 {
     border-left:1px solid black;
     border-right: 1px solid black;
+}
+.by-1 {
+    border-top:1px solid black;
+    border-bottom: 1px solid black;
 }
 .mb-100 {
     margin-bottom:100px;
