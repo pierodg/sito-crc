@@ -35,7 +35,7 @@
         </svg>
         
 
-        <div class="">
+        <div class="position-relative">
             <nav class="pl-5 navmenu position-absolute navbar navbar-expand-sm navbar-dark">
                 <a class="navbar-brand" href="#"><svg class="logo"><use xlink:href="#logo" xmlns:xlink="http://www.w3.org/1999/xlink"></use></svg></a>
                 <ul class="navbar-nav ml-auto">
@@ -57,7 +57,7 @@
                 </ul>
             </nav>
             <!-- Additional required wrapper -->
-            <div class="">
+            <div class="col-12 p-0">
             <!-- Slides -->
                 <div class="vh-100 d-flex align-items-center text-light" style="background-image:url('asset/img.png');">
                     <div class="pl-5">
@@ -67,8 +67,8 @@
                     </div>
                 </div>
             </div>
-            <div class="text-rotate col-4">
-                <a href="javascript:void(0);" class="link font-medium">Continua</a><i class="icon-arrow icon-rounded"></i>
+            <div class="col-4">
+                <a href="javascript:void(0);" class="link font-medium servizio-anchor"><i class="icon-arrow icon-rounded"></i>Continua</a>
             </div>
 
         </div>

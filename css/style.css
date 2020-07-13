@@ -402,3 +402,19 @@ footer li {
     width: 100%;
     height: 100%;
 }
+.servizio-anchor {
+    position: absolute;
+    bottom: 100px;
+    left: 0;
+    transform: rotate(-90deg);
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    color: #fff;
+}
+.servizio-anchor i {
+    background-color:transparent;
+    border:1px solid rgba(255,255,255,.7);
+    color:#fff;
+}
