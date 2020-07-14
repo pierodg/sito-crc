@@ -79,7 +79,7 @@
             </ul>
         </div>
 
-        <div class="swiper-categories container w-2220 py-5">
+        <div class="swiper-categories container w-2220 py-5 mb-5">
             <div class="swiper-wrapper">
                 <div class="swiper-slide d-flex flex-column">
                     <div class="flex-grow-3">
@@ -181,6 +181,11 @@
                         <a href="javascript:void(0);" class="link font-medium"><i class="icon-arrow"></i>Scopri di più</a>
                     </div>
                 </div>
+            </div>
+            <div class="d-flex align-items-center justify-content-end">
+                <a id="prev_pagination" href="javascript:void(0);"><i class="icon-arrow icon-rounded"></i></a>
+                <div class="swiper-pagination"></div>
+                <a id="next_pagination" href="javascript:void(0);"><i class="icon-arrow icon-rounded"></i></a>
             </div>
         </div>
             <?php /*<div class="col-2 py-5 offset-10 text-right">

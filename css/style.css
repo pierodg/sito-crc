@@ -492,7 +492,8 @@ footer li {
 }
 .swiper-categories {
     width:100%;
-    height: 900px;
+    height: 1000px;
+    position: relative;
 }
 .breadcrumb {
     background-color: transparent
@@ -510,4 +511,28 @@ footer li {
 }
 .swiper-categories .swiper-slide {
     height: calc((100% - 30px) / 2);
+}
+.swiper-categories .swiper-pagination {
+    position: relative;
+    text-align: center;
+}
+.swiper-categories .swiper-pagination-bullet {
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    font-size: 12px;
+    color: #000;
+    opacity: 1;
+    background:transparent;
+}
+
+.swiper-categories .swiper-pagination-bullet-active {
+    color: #0044ff;
+}
+#prev_pagination {
+    margin-right:-10px;
+}
+#next_pagination {
+    margin-left:10px;
 }

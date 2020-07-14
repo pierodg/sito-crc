@@ -52,10 +52,17 @@ $(document).ready(function(){
         slidesPerView: 3,
         slidesPerColumn: 2,
         spaceBetween: 30,
-        /*pagination: {
+        pagination: {
             el: '.swiper-pagination',
             clickable: true,
-        },*/
+            renderBullet: function (index, className) {
+                console.log(index);
+                console.log(className);
+                return '<span class="' + className + '">' + (index + 1) + '</span>';
+            },
+        },
+        nextButton: '#next_pagination',
+        prevButton: '#prev_pagination'
     });
 
     $("#next_btn").click(function(e){
@@ -81,6 +88,15 @@ $(document).ready(function(){
     $("#prev_news").click(function(e){
         e.preventDefault();
         news.slidePrev();
+    });
+
+    $("#next_pagination").click(function(e){
+        e.preventDefault();
+        categories.slideNext();
+    });
+    $("#prev_pagination").click(function(e){
+        e.preventDefault();
+        categories.slidePrev();
     });
 
 
