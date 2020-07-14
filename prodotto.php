@@ -51,13 +51,14 @@
             <div class="row py-80">
                 <div class="col-5 d-flex align-items-start">
                     <div class="row h-100">
-                        <div class="col-1"><span>01</span></div>
                         <div class="col-11 d-flex">
-                            <div class="pl-5 details d-flex flex-column justify-content-between">
-                                <h2 class="uppercase">Telecom equipment</h2>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis voluptates esse ullam numquam at aliquid hic. Aperiam cum nam sint blanditiis! Qui sit porro dolore consequuntur! Rem, quas. Fugit, quia!</p>
-                                <a href="javascript:void(0);" class="link font-medium"><i class="icon-arrow"></i>Scopri di più</a>
+                            <div class="pl-5 d-flex flex-column">
+                                <p class="uppercase font-regular font-13 bb-1 pb-4 font-weight-bold">Servizi <span class="bullett"><span>industrial engineering & automation</p>
+                                <h2 class="uppercase pt-5 font-60 font-regular">Lightining Test bench application</h2>
+
+                                <a href="javascript:void(0);" class="link font-medium specifiche-anchor"><i class="icon-arrow icon-rounded"></i>Specifiche</a>
                             </div>
+
                         </div>
                     </div>
                 </div>
@@ -71,7 +72,7 @@
                 <div class="col-5 d-flex align-items-start">
                     <div class="row h-100 align-items-center justify-content-center">
                         <div class="d-flex col-1"></div>
-                        <p class="services-number">01</p>
+                        <p class="services-number font-13">01</p>
                         <div class="col-10 d-flex">
                             <div class="pl-5 d-flex flex-column">
                                 <h2 class="fs-36 font-regular">Descrizione</h2>
@@ -89,7 +90,7 @@
                 <div class="col-5 d-flex align-items-start">
                     <div class="row h-100 align-items-center justify-content-center">
                         <div class="d-flex col-1"></div>
-                        <p class="services-number">02</p>
+                        <p class="services-number font-13">02</p>
                         <div class="col-10 d-flex">
                             <div class="pl-5 d-flex flex-column">
                                 <h2 class="fs-36 font-regular">Specifiche tecniche</h2>
