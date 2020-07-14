@@ -48,6 +48,17 @@ $(document).ready(function(){
         nextButton: '#next_about'
     });
 
+    var categories = new Swiper('.swiper-categories', {
+        slidesPerView: 3,
+        slidesPerColumn: 2,
+        spaceBetween: 30,
+        direction: 'horizontal',
+        /*pagination: {
+            el: '.swiper-pagination',
+            clickable: true,
+        },*/
+    });
+
     $("#next_btn").click(function(e){
         e.preventDefault();
         services.slideNext();

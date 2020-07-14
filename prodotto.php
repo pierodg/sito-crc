@@ -48,37 +48,27 @@
         
 
         <div class="container w-2220">
-            <div class="row py-80">
-                <div class="col-5 d-flex align-items-start">
-                    <div class="row h-100">
-                        <div class="col-12 d-flex">
-                            <div class="pl-5 d-flex flex-column">
-                                <p class="uppercase font-regular font-13 bb-1 pb-4 font-weight-bold">Servizi <span class="bullett"><span>industrial engineering & automation</p>
-                                <h2 class="uppercase pt-5 font-60 font-regular">Lightining Test bench application</h2>
-
-                                <a href="javascript:void(0);" class="link font-medium specifiche-anchor"><i class="icon-arrow icon-rounded"></i>Specifiche</a>
-                            </div>
-                        </div>
-                    
-                    </div>
+            <div class="row py-80 position-relative">
+                <div class="col-5 d-flex align-items-start flex-column pl-0">
+                    <ul class="breadcrumb pl-0 mb-0 uppercase font-regular font-13 pb-4 font-weight-bold">
+                        <li>Servizi</li>
+                        <li>industrial engineering & automation</li>
+                    </ul>
+                    <h2 class="uppercase pt-5 font-60 bt-1 font-regular">Lightining Test bench application</h2>
+                    <a href="javascript:void(0);" class="link font-medium download-prodotto"><i class="icon-download"></i>Download scheda prodotto</a>
                 </div>
-                <div class="col-6 offset-1">
-                    <img src="asset/shutterstock_1071679382.png" class="img-fluid">
+                <div class="col-6 offset-1 pr-0">
+                    <img src="asset/shutterstock_1071679382.png" class="img-fluid h-500">
                 </div>
+                <a href="javascript:void(0);" class="link font-medium specifiche-anchor-prodotto"><i class="icon-arrow icon-rounded"></i>Specifiche</a>
+                
             </div>
         </div>
         <div class="container w-2220">
             <div class="row py-80 bt-1">
-                <div class="col-5 d-flex align-items-start">
-                    <div class="row h-100 align-items-center justify-content-center">
-                        <div class="d-flex col-1"></div>
-                        <p class="services-number font-13">01</p>
-                        <div class="col-10 d-flex">
-                            <div class="pl-5 d-flex flex-column">
-                                <h2 class="fs-36 font-regular">Descrizione</h2>
-                            </div>
-                        </div>
-                    </div>
+                <div class="col-5 d-flex align-items-center pl-0">
+                    <span class="services-number font-13">01</span>
+                    <h2 class="fs-36 font-regular pl-5">Descrizione</h2>
                 </div>
                 <div class="col-6 offset-1">
                     <h5 class="font-light">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat iure, reprehenderit cumque commodi a enim fuga ex recusandae dolore aperiam adipisci? Magnam in neque enim minus iste sit facere odio.</h5>
@@ -87,16 +77,9 @@
         </div>
         <div class="container w-2220">
             <div class="row py-80 by-1">
-                <div class="col-5 d-flex align-items-start">
-                    <div class="row h-100 align-items-center justify-content-center">
-                        <div class="d-flex col-1"></div>
-                        <p class="services-number font-13">02</p>
-                        <div class="col-10 d-flex">
-                            <div class="pl-5 d-flex flex-column">
-                                <h2 class="fs-36 font-regular">Specifiche tecniche</h2>
-                            </div>
-                        </div>
-                    </div>
+                <div class="col-5 d-flex align-items-center pl-0">
+                    <span class="services-number font-13">02</span>
+                    <h2 class="fs-36 font-regular pl-5">Specifiche tecniche</h2>
                 </div>
                 <div class="col-6 offset-1">
                     <ul class="custom-list">

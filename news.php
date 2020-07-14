@@ -85,48 +85,38 @@
 
         <div class="container pt-5 w-2220">
             <div class="row">
-                <div class="col-4">
-                    <img src="foto/news-01.png" alt="" class="img-fluid">
-                    <p class="fs-12 active font-light pt-4">CATEGORY</p>
-                    <h5 class="py-4">CRC&C ha completato l'instalalzione di pannelli fotovoltaici industriali</h5>
-                    <a href="javascript:void(0);" class="link font-medium"><i class="icon-arrow"></i>Scopri di più</a>
-                </div>
-                <div class="col-4">
-                    <img src="foto/news-01.png" alt="" class="img-fluid">
-                    <p class="fs-12 active font-light pt-4">CATEGORY</p>
-                    <h5 class="py-4">CRC&C ha completato l'instalalzione di pannelli fotovoltaici industriali</h5>
-                    <a href="javascript:void(0);" class="link font-medium"><i class="icon-arrow"></i>Scopri di più</a>
-                </div>
-                <div class="col-4">
-                    <img src="foto/news-01.png" alt="" class="img-fluid">
-                    <p class="fs-12 active font-light pt-4">CATEGORY</p>
-                    <h5 class="py-4">CRC&C ha completato l'instalalzione di pannelli fotovoltaici industriali</h5>
-                    <a href="javascript:void(0);" class="link font-medium"><i class="icon-arrow"></i>Scopri di più</a>
-                </div>
-            </div>
-            <div class="row pt-5">
-                <div class="col-4">
-                    <img src="foto/news-01.png" alt="" class="img-fluid">
-                    <p class="fs-12 active font-light pt-4">CATEGORY</p>
-                    <h5 class="py-4">CRC&C ha completato l'instalalzione di pannelli fotovoltaici industriali</h5>
-                    <a href="javascript:void(0);" class="link font-medium"><i class="icon-arrow"></i>Scopri di più</a>
-                </div>
-                <div class="col-4">
-                    <img src="foto/news-01.png" alt="" class="img-fluid">
-                    <p class="fs-12 active font-light pt-4">CATEGORY</p>
-                    <h5 class="py-4">CRC&C ha completato l'instalalzione di pannelli fotovoltaici industriali</h5>
-                    <a href="javascript:void(0);" class="link font-medium"><i class="icon-arrow"></i>Scopri di più</a>
-                </div>
-                <div class="col-4">
-                    <img src="foto/news-01.png" alt="" class="img-fluid">
-                    <p class="fs-12 active font-light pt-4">CATEGORY</p>
-                    <h5 class="py-4">CRC&C ha completato l'instalalzione di pannelli fotovoltaici industriali</h5>
-                    <a href="javascript:void(0);" class="link font-medium"><i class="icon-arrow"></i>Scopri di più</a>
+                <div class="swiper-categories">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <img src="foto/news-01.png" alt="" class="img-fluid">
+                            <p class="fs-12 active font-light pt-4">CATEGORY</p>
+                            <h5 class="py-4">CRC&C ha completato l'instalalzione di pannelli fotovoltaici industriali</h5>
+                            <a href="javascript:void(0);" class="link font-medium"><i class="icon-arrow"></i>Scopri di più</a>
+                        </div>
+                        <div class="swiper-slide">
+                            <img src="foto/news-01.png" alt="" class="img-fluid">
+                            <p class="fs-12 active font-light pt-4">CATEGORY</p>
+                            <h5 class="py-4">CRC&C ha completato l'instalalzione di pannelli fotovoltaici industriali</h5>
+                            <a href="javascript:void(0);" class="link font-medium"><i class="icon-arrow"></i>Scopri di più</a>
+                        </div>
+                        <div class="swiper-slide">
+                            <img src="foto/news-01.png" alt="" class="img-fluid">
+                            <p class="fs-12 active font-light pt-4">CATEGORY</p>
+                            <h5 class="py-4">CRC&C ha completato l'instalalzione di pannelli fotovoltaici industriali</h5>
+                            <a href="javascript:void(0);" class="link font-medium"><i class="icon-arrow"></i>Scopri di più</a>
+                        </div>
+                        <div class="swiper-slide">
+                            <img src="foto/news-01.png" alt="" class="img-fluid">
+                            <p class="fs-12 active font-light pt-4">CATEGORY</p>
+                            <h5 class="py-4">CRC&C ha completato l'instalalzione di pannelli fotovoltaici industriali</h5>
+                            <a href="javascript:void(0);" class="link font-medium"><i class="icon-arrow"></i>Scopri di più</a>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <div class="col-2 py-5 offset-10 text-right">
-                <a id="next_btn" class="font-medium link" href="javascript:void(0);">1<i class="icon-arrow icon-rounded"></i></a>
-            </div>
+            <?php /*<div class="col-2 py-5 offset-10 text-right">
+                <a id="news_pagna" class="font-medium link" href="javascript:void(0);">1<i class="icon-arrow icon-rounded"></i></a>
+            </div>*/?>
         </div>
        
        
