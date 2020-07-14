@@ -58,17 +58,13 @@
         <div class="container w-2220">
             <div class="row py-80 bt-1">
                 <div class="col-6 p-0">
-                    <img src="foto/news-01.png" class="img-fluid">
+                    <img src="foto/news-01.png" class="img-fluid h-100">
                 </div>
-                <div class="col-5 d-flex align-items-start">
-                    <div class="row pt-5 h-100">
-                        <div class="pl-5 d-flex flex-column">
-                            <p class="fs-12 active font-light">CATEGORY</p>
-                            <h2 class="pt-4 fs-36 font-regular">CR&C ha completato l'installazione di pannelli fotovoltaici industriali</h2>
-                            <p class="pt-4 fs-15 font-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis voluptates esse ullam numquam at aliquid hic. Aperiam cum nam sint blanditiis! Qui sit porro dolore consequuntur! Rem, quas. Fugit, quia!</p>
-                            <a href="javascript:void(0);" class="pt-5 link font-medium"><i class="icon-arrow"></i>Scopri di più</a>
-                        </div>
-                    </div>
+                <div class="col-5 d-flex pl-5 flex-column justify-content-around">
+                    <p class="fs-12 active font-light">CATEGORY</p>
+                    <h2 class="pt-4 fs-36 font-regular">CR&C ha completato l'installazione di pannelli fotovoltaici industriali</h2>
+                    <p class="pt-4 fs-15 font-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis voluptates esse ullam numquam at aliquid hic. Aperiam cum nam sint blanditiis! Qui sit porro dolore consequuntur! Rem, quas. Fugit, quia!</p>
+                    <a href="javascript:void(0);" class="pt-5 link font-medium"><i class="icon-arrow"></i>Scopri di più</a>
                 </div>
             </div>
         </div>
