@@ -52,25 +52,25 @@
 
         <div class="container">
             <div class="row">
-                <div class="p-0 col-8 offset-2">
-                    <h2 class="pt-5">Subtitle news lorem ipsum</h2>
-                    <p class="pt-4 pb-5 fs-14">Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate fugit perspiciatis hic a mollitia nostrum repudiandae cumque adipisci illum reprehenderit soluta harum, possimus earum, accusamus amet sapiente quibusdam cum quisquam?</p>
+                <div class="col-1 position-relative">
+                    <a href="javascript:void(0);" class="news_read_more link font-medium text-rotate-inv font-11"><i class="icon-arrow icon-rounded"></i>Leggi</a>
+                </div>
+                <div class="pl-0 col-8 offset-1">
+                    <h2 class="pt-5 font-regular">Subtitle news lorem ipsum</h2>
+                    <p class="pt-4 pb-5 font-light font-16">Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate fugit perspiciatis hic a mollitia nostrum repudiandae cumque adipisci illum reprehenderit soluta harum, possimus earum, accusamus amet sapiente quibusdam cum quisquam?</p>
                 </div>
              </div>
-             <div class="row">
-                 <div class="col-2">
-                    <a href="javascript:void(0);" class="link font-medium servizio-anchor"><i class="icon-arrow icon-rounded"></i>Leggi</a>
-                 </div>
-                 <div class="p-0 col-8">
+             <div class="row pt-4">
+                <div class="p-0 col-8 offset-2">
                     <img class="img-fluid" src="foto/applicazioni-03.jpg" alt="">
-                 </div>
-                 <div class="col-2 text-right">
-                     icone
-                 </div>
+                </div>
+                <div class="col-2 text-right">
+                    icone
+                </div>
              </div>
              <div class="row pt-5">
-                 <div class="col-8 offset-2">
-                 <ul class="custom-list">
+                 <div class="col-8 offset-2 pl-0">
+                    <ul class="custom-list">
                         <li class="fs-15 font-medium">lorem ipsum dolor sit amet</li>
                         <li class="fs-15 font-medium">lorem ipsum dolor sit amet</li>
                         <li class="fs-15 font-medium">lorem ipsum dolor sit amet</li>
@@ -78,31 +78,16 @@
                         <li class="fs-15 font-medium">lorem ipsum dolor sit amet</li>
                     </ul>
                  </div>
-                
              </div>
          </div>
 
-         <div class="container-fluid p-0 m-0">
-            <div class="row pt-180 pb-60">
-            <div class="d-flex align-items-center">
+        <div class="container py-5">
+            <div class="row">
+                <div class="col-1 d-flex align-items-center">
                     <a id="prev_news" href="javascript:void(0);"><i class="icon-arrow icon-rounded"></i></a>
                 </div>
-                <div class="col-8 offset-2 pt-4 w-50 swiper-news">
+                <div class="col-8 offset-1 swiper-news">
                     <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <img src="foto/home-news-01.jpg" alt="">
-                        </div>
-                        <div class="swiper-slide">
-                            <img src="foto/home-news-01.jpg" alt="">
-
-                        </div>
-                        <div class="swiper-slide">
-                            <img src="foto/home-news-01.jpg" alt="">
-
-                        </div>
-                        <div class="swiper-slide">
-                            <img src="foto/home-news-01.jpg" alt="">
-                        </div>
                         <div class="swiper-slide">
                             <img src="foto/home-news-01.jpg" alt="">
                         </div>
@@ -111,7 +96,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-1 d-flex align-items-center">
+                <div class="col-1 offset-1 d-flex align-items-center">
                     <a id="next_news" href="javascript:void(0);"><i class="icon-arrow icon-rounded"></i></a>
                 </div>
             </div>

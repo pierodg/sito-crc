@@ -195,7 +195,7 @@ a:hover {
     max-width: 1280px;
 }
 .w-2220 {
-    max-width: 2220px;
+    max-width: 1110px;
 }
 
 .text-rotate {
@@ -243,6 +243,9 @@ h5 {
 
 .font-13 {
     font-size: 13px;
+}
+.font-16 {
+    font-size: 16px;
 }
 .tab_custom a {
     display: flex;
@@ -445,4 +448,12 @@ footer li {
     color:#0044ff;
     font-weight: bold;
     padding-right:10px;
+}
+.news_read_more {
+    position: absolute;
+    left:0px;
+    bottom:50px;
+}
+.font-11 {
+    font-size:11px;
 }

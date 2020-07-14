@@ -33,13 +33,12 @@ $(document).ready(function(){
         nextButton: '#next_partner'
     });
 
-     var partners = new Swiper('.swiper-news', {
+    var news = new Swiper('.swiper-news', {
         slidesPerGroup: 1,
         slidesPerView: 1,
         loop: true,
         nextButton: '#next_news',
         prevButton: '#prev_news'
-
     });
 
     var about = new Swiper('.swiper-chi-siamo', {
@@ -63,6 +62,15 @@ $(document).ready(function(){
     $("#next_about").click(function(e){
         e.preventDefault();
         about.slideNext();
+    });
+
+    $("#next_news").click(function(e){
+        e.preventDefault();
+        news.slideNext();
+    });
+    $("#prev_news").click(function(e){
+        e.preventDefault();
+        news.slidePrev();
     });
 
 
