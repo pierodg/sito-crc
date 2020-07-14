@@ -27,7 +27,8 @@ $(document).ready(function(){
     });
 
     var partners = new Swiper('.swiper-partners', {
-        slidesPerView: 1,
+        slidesPerGroup: 3,
+        slidesPerView: 3,
         loop: true,
         nextButton: '#next_partner'
     });

@@ -3,7 +3,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-        <title>CRC - News</title>
+        <title>CRC - Prodotto</title>
 
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -24,7 +24,7 @@
         </symbol>
         </svg>
         <div class="container w-2220">
-            <nav class="navmenu navbar navbar-expand-sm border-bottom border-dark">
+            <nav class="navmenu navbar navbar-expand-sm">
                 <a class="navbar-brand" href="#"><svg class="logo"><use xlink:href="#logo" xmlns:xlink="http://www.w3.org/1999/xlink"></use></svg></a>
                 <ul class="navbar-nav ml-auto">
                     <li class="mr-4 nav-item">
@@ -44,99 +44,85 @@
                     </li>
                 </ul>
             </nav>
+        </div>
         
-        </div>
+
         <div class="container w-2220">
-            <h1 class="uppercase fs-60 pt-5">crc&c ha completato l'installazione di pannelli fotovoltaici industriali</h1>
-        </div>
-
-        <div class="container">
-            <div class="row">
-                <div class="p-0 col-8 offset-2">
-                    <h2 class="pt-5">Subtitle news lorem ipsum</h2>
-                    <p class="pt-4 pb-5 fs-14">Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate fugit perspiciatis hic a mollitia nostrum repudiandae cumque adipisci illum reprehenderit soluta harum, possimus earum, accusamus amet sapiente quibusdam cum quisquam?</p>
-                </div>
-             </div>
-             <div class="row">
-                 <div class="col-2">
-                    <a href="javascript:void(0);" class="link font-medium servizio-anchor"><i class="icon-arrow icon-rounded"></i>Leggi</a>
-                 </div>
-                 <div class="p-0 col-8">
-                    <img class="img-fluid" src="foto/applicazioni-03.jpg" alt="">
-                 </div>
-                 <div class="col-2 text-right">
-                     icone
-                 </div>
-             </div>
-             <div class="row pt-5">
-                 <div class="col-8 offset-2">
-                 <ul class="custom-list">
-                        <li class="fs-15 font-medium">lorem ipsum dolor sit amet</li>
-                        <li class="fs-15 font-medium">lorem ipsum dolor sit amet</li>
-                        <li class="fs-15 font-medium">lorem ipsum dolor sit amet</li>
-                        <li class="fs-15 font-medium">lorem ipsum dolor sit amet</li>
-                        <li class="fs-15 font-medium">lorem ipsum dolor sit amet</li>
-                    </ul>
-                 </div>
-                
-             </div>
-         </div>
-
-         <div class="container-fluid p-0 m-0">
-            <div class="row pt-180 pb-60">
-            <div class="d-flex align-items-center">
-                    <a id="prev_news" href="javascript:void(0);"><i class="icon-arrow icon-rounded"></i></a>
-                </div>
-                <div class="col-8 offset-2 pt-4 w-50 swiper-news">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <img src="foto/home-news-01.jpg" alt="">
-                        </div>
-                        <div class="swiper-slide">
-                            <img src="foto/home-news-01.jpg" alt="">
-
-                        </div>
-                        <div class="swiper-slide">
-                            <img src="foto/home-news-01.jpg" alt="">
-
-                        </div>
-                        <div class="swiper-slide">
-                            <img src="foto/home-news-01.jpg" alt="">
-                        </div>
-                        <div class="swiper-slide">
-                            <img src="foto/home-news-01.jpg" alt="">
-                        </div>
-                        <div class="swiper-slide">
-                            <img src="foto/home-news-01.jpg" alt="">
+            <div class="row py-80">
+                <div class="col-5 d-flex align-items-start">
+                    <div class="row h-100">
+                        <div class="col-1"><span>01</span></div>
+                        <div class="col-11 d-flex">
+                            <div class="pl-5 details d-flex flex-column justify-content-between">
+                                <h2 class="uppercase">Telecom equipment</h2>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis voluptates esse ullam numquam at aliquid hic. Aperiam cum nam sint blanditiis! Qui sit porro dolore consequuntur! Rem, quas. Fugit, quia!</p>
+                                <a href="javascript:void(0);" class="link font-medium"><i class="icon-arrow"></i>Scopri di più</a>
+                            </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-1 d-flex align-items-center">
-                    <a id="next_news" href="javascript:void(0);"><i class="icon-arrow icon-rounded"></i></a>
+                <div class="col-6 offset-1">
+                    <img src="asset/shutterstock_1071679382.png" class="img-fluid">
+                </div>
+            </div>
+        </div>
+        <div class="container w-2220">
+            <div class="row py-80 bt-1">
+                <div class="col-5 d-flex align-items-start">
+                    <div class="row h-100 align-items-center justify-content-center">
+                        <div class="d-flex col-1"></div>
+                        <p class="services-number">01</p>
+                        <div class="col-10 d-flex">
+                            <div class="pl-5 d-flex flex-column">
+                                <h2 class="fs-36 font-regular">Descrizione</h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6 offset-1">
+                    <h5 class="font-light">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat iure, reprehenderit cumque commodi a enim fuga ex recusandae dolore aperiam adipisci? Magnam in neque enim minus iste sit facere odio.</h5>
+                </div>
+            </div>
+        </div>
+        <div class="container w-2220">
+            <div class="row py-80 by-1">
+                <div class="col-5 d-flex align-items-start">
+                    <div class="row h-100 align-items-center justify-content-center">
+                        <div class="d-flex col-1"></div>
+                        <p class="services-number">02</p>
+                        <div class="col-10 d-flex">
+                            <div class="pl-5 d-flex flex-column">
+                                <h2 class="fs-36 font-regular">Specifiche tecniche</h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6 offset-1">
+                    <ul class="custom-list">
+                        <li class="fs-15 font-medium uppercase">lorem ipsum dolor sit amet</li>
+                        <li class="pt-2 fs-15 font-medium uppercase">lorem ipsum dolor sit amet</li>
+                        <li class="pt-2 fs-15 font-medium uppercase">lorem ipsum dolor sit amet</li>
+                        <li class="pt-2 fs-15 font-medium uppercase">lorem ipsum dolor sit amet</li>
+                        <li class="pt-2 fs-15 font-medium uppercase">lorem ipsum dolor sit amet</li>
+                    </ul>
                 </div>
             </div>
         </div>
 
-        <div id="news" class="container mt-5">
-            <div class="row pt-90 pb-90">
-                <div class="col-3">    
-                    <h3 class="pt-2 line-above font-medium uppercase">Articoli correlati</h3>
-                    <h1 class="py-4 font-regular">Ti potrebbero interessare</h1>
-                    <a href="javascript:void(0);" class="link font-medium"><i class="icon-arrow"></i>Tutte le news</a>
+        <div class="container-fluid position-relative">
+            <div class="row py-80">
+                <div class="col-4 offset-3">
+                    <h3 class="pt-2 line-above font-medium uppercase">contatti</h3>
+                    <h1 class="pt-4 font-regular font-36">Contattaci per maggiori informazioni o un preventivo gratuito</h1>
                 </div>
-                <div class="col-4">    
-                    <img class="img-fluid" src="foto/home-news-01.jpg" alt="">
-                    <h5 class="py-4 font-regular">CR&C ha completato l'installazione di pannelli fotovoltaici industriali</h5>
-                    <a href="javascript:void(0);" class="link font-medium"><i class="icon-arrow"></i>Scopri di più</a>
-                </div>
-                <div class="col-1 bordered"></div>
-                <div class="col-4">    
-                    <img class="img-fluid" src="foto/home-news-02.jpg" alt="">
-                    <h5 class="py-4 font-regular">CR&C ha firmato un'estensione di SLA con un grande OEM</h5>
-                    <a href="javascript:void(0);" class="link font-medium"><i class="icon-arrow"></i>Scopri di più</a>
+            </div>
+            <div class="row pb-60">
+                <div class="col-5 offset-3 text-center">
+                    form
                 </div>
             </div>
         </div>
+       
        
         <footer class="container w-2220 font-light">
             <div class="row line-above pt-5 pb-3">
@@ -187,7 +173,5 @@
         <script src="js/jquery-3.5.1.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
         <script src="js/swiper-bundle.min.js"></script>
-        <script src="js/main.js"></script>
-
     </body>
 </html>
