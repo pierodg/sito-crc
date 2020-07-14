@@ -64,7 +64,7 @@
                 <div class="p-0 col-8 offset-2">
                     <img class="img-fluid" src="foto/applicazioni-03.jpg" alt="">
                 </div>
-                <div class="col-2 text-right">
+                <div class="col-2 d-flex align-items-end justify-content-end">
                     icone
                 </div>
              </div>
