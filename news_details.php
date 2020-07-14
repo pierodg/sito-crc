@@ -83,20 +83,22 @@
 
         <div class="container py-5">
             <div class="row">
-                <div class="col-1 d-flex align-items-center">
+                <div class="col-1 offset-2 d-flex flex-row justify-content-center align-items-center">
                     <a id="prev_news" href="javascript:void(0);"><i class="icon-arrow icon-rounded"></i></a>
                 </div>
-                <div class="col-8 offset-1 swiper-news">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <img src="foto/home-news-01.jpg" alt="">
-                        </div>
-                        <div class="swiper-slide">
-                            <img src="foto/home-news-01.jpg" alt="">
+                <div class="col-6">
+                    <div class="swiper-news">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <img src="foto/home-news-01.jpg" alt="">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="foto/home-news-01.jpg" alt="">
+                            </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-1 offset-1 d-flex align-items-center">
+                <div class="col-1 d-flex flex-row justify-content-center align-items-center">
                     <a id="next_news" href="javascript:void(0);"><i class="icon-arrow icon-rounded"></i></a>
                 </div>
             </div>
