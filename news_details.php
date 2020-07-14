@@ -88,18 +88,39 @@
              </div>
          </div>
 
-         <div class="container swiper-news_details">
-                
-
-                <div class="swiper-wrapper">
-                    <div class="swiper-slide"><img class="img-fluid" src="foto/home-news-01.jpg" alt=""></div>
-                    <div class="swiper-slide"><img class="img-fluid" src="foto/home-news-02.jpg" alt=""></div>
-                    <div class="swiper-slide"><img class="img-fluid" src="foto/news-01.png" alt=""></div>
+         <div class="container-fluid p-0 m-0">
+            <div class="row pt-180 pb-60">
+            <div class="d-flex align-items-center">
+                    <a id="prev_news" href="javascript:void(0);"><i class="icon-arrow icon-rounded"></i></a>
                 </div>
-                <!-- Add Arrows -->
-                <div class="swiper-button-next"></div>
+                <div class="col-8 offset-2 pt-4 w-50 swiper-news">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <img src="foto/home-news-01.jpg" alt="">
+                        </div>
+                        <div class="swiper-slide">
+                            <img src="foto/home-news-01.jpg" alt="">
 
-                <div class="swiper-button-prev"></div>
+                        </div>
+                        <div class="swiper-slide">
+                            <img src="foto/home-news-01.jpg" alt="">
+
+                        </div>
+                        <div class="swiper-slide">
+                            <img src="foto/home-news-01.jpg" alt="">
+                        </div>
+                        <div class="swiper-slide">
+                            <img src="foto/home-news-01.jpg" alt="">
+                        </div>
+                        <div class="swiper-slide">
+                            <img src="foto/home-news-01.jpg" alt="">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-1 d-flex align-items-center">
+                    <a id="next_news" href="javascript:void(0);"><i class="icon-arrow icon-rounded"></i></a>
+                </div>
+            </div>
         </div>
 
         <div id="news" class="container mt-5">
