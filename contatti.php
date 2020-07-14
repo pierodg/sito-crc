@@ -3,7 +3,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-        <title>CRC - Prodotto</title>
+        <title>CRC - Contatti</title>
 
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -47,82 +47,21 @@
         </div>
         
 
-        <div class="container w-2220">
-            <div class="row py-80">
-                <div class="col-5 d-flex align-items-start">
-                    <div class="row h-100">
-                        <div class="col-12 d-flex">
-                            <div class="pl-5 d-flex flex-column">
-                                <p class="uppercase font-regular font-13 bb-1 pb-4 font-weight-bold">Servizi <span class="bullett"><span>industrial engineering & automation</p>
-                                <h2 class="uppercase pt-5 font-60 font-regular">Lightining Test bench application</h2>
-
-                                <a href="javascript:void(0);" class="link font-medium specifiche-anchor"><i class="icon-arrow icon-rounded"></i>Specifiche</a>
-                            </div>
-                        </div>
-                    
-                    </div>
-                </div>
-                <div class="col-6 offset-1">
-                    <img src="asset/shutterstock_1071679382.png" class="img-fluid">
-                </div>
-            </div>
-        </div>
-        <div class="container w-2220">
-            <div class="row py-80 bt-1">
-                <div class="col-5 d-flex align-items-start">
-                    <div class="row h-100 align-items-center justify-content-center">
-                        <div class="d-flex col-1"></div>
-                        <p class="services-number font-13">01</p>
-                        <div class="col-10 d-flex">
-                            <div class="pl-5 d-flex flex-column">
-                                <h2 class="fs-36 font-regular">Descrizione</h2>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-6 offset-1">
-                    <h5 class="font-light">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat iure, reprehenderit cumque commodi a enim fuga ex recusandae dolore aperiam adipisci? Magnam in neque enim minus iste sit facere odio.</h5>
-                </div>
-            </div>
-        </div>
-        <div class="container w-2220">
-            <div class="row py-80 by-1">
-                <div class="col-5 d-flex align-items-start">
-                    <div class="row h-100 align-items-center justify-content-center">
-                        <div class="d-flex col-1"></div>
-                        <p class="services-number font-13">02</p>
-                        <div class="col-10 d-flex">
-                            <div class="pl-5 d-flex flex-column">
-                                <h2 class="fs-36 font-regular">Specifiche tecniche</h2>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-6 offset-1">
-                    <ul class="custom-list">
-                        <li class="fs-15 font-medium uppercase">lorem ipsum dolor sit amet</li>
-                        <li class="pt-2 fs-15 font-medium uppercase">lorem ipsum dolor sit amet</li>
-                        <li class="pt-2 fs-15 font-medium uppercase">lorem ipsum dolor sit amet</li>
-                        <li class="pt-2 fs-15 font-medium uppercase">lorem ipsum dolor sit amet</li>
-                        <li class="pt-2 fs-15 font-medium uppercase">lorem ipsum dolor sit amet</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-
-        <div class="container-fluid position-relative">
-            <div class="row py-80">
-                <div class="col-4 offset-3">
-                    <h3 class="pt-2 line-above font-medium uppercase">contatti</h3>
-                    <h1 class="pt-4 font-regular font-36">Contattaci per maggiori informazioni o un preventivo gratuito</h1>
-                </div>
-            </div>
+        <div class="container">
             <div class="row pb-60">
-                <div class="col-5 offset-3 text-center">
-                    form
+                <div class="col-6">
+                    <h3 class="pb-5 bb-1 font-medium uppercase">Contatti</h3>
+                    <h1 class="pt-5 font-regular font-36">Via Thomas Edison 2 20875 - Burago di Molgora(MB) Italy</h1>
+                    <p class="pt-5">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus dicta ad sequi aliquam doloremque modi, quidem officiis, deleniti facere aliquid rerum nam aperiam nostrum reprehenderit dolores nulla necessitatibus assumenda fugiat.</p>
+                </div>
+                <div class="pt-5 col-4 offset-2">
+                    ciao
                 </div>
             </div>
         </div>
+      
+     
+          
        
        
         <footer class="container w-2220 font-light">

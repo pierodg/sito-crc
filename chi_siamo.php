@@ -81,7 +81,6 @@
                     <p class="pt-5">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus dicta ad sequi aliquam doloremque modi, quidem officiis, deleniti facere aliquid rerum nam aperiam nostrum reprehenderit dolores nulla necessitatibus assumenda fugiat.</p>
                 </div>
             </div>
-            
         </div>
         <div class="container position-relative">
             <svg class="arrows">
