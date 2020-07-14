@@ -467,6 +467,8 @@ footer li {
     color:#0044ff;
     font-weight: bold;
     padding-right:10px;
+}
+.bullet:before  {
     padding-left:10px;
 }
 .news_read_more {
