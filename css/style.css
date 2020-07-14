@@ -437,6 +437,12 @@ footer li {
     width:100%;
     height:100%;
 }
-
-
-  
+.custom-list {
+    list-style-type: none;
+}
+.custom-list li:before {
+    content: '•';
+    color:#0044ff;
+    font-weight: bold;
+    padding-right:10px;
+}
