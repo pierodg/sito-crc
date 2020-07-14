@@ -18,7 +18,15 @@ $(document).ready(function(){
         },
     });
 
-
+    
+    var news_details = new Swiper('.swiper-news_details', {
+        slidesPerView: 1,
+        loop: true,
+        navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+      },
+    });
     var services = new Swiper('.swiper-services', {
         slidesPerView: 3,
         loop: true,

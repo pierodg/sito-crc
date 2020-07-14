@@ -70,7 +70,7 @@
              </div>
              <div class="row pt-5">
                  <div class="col-8 offset-2">
-                    <ul>
+                    <ul class="">
                         <li class="">
                             lorem LOREM lorem lorem lorem
                         </li>
@@ -87,6 +87,20 @@
                 
              </div>
          </div>
+
+         <div class="container swiper-news_details">
+                
+
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide"><img class="img-fluid" src="foto/home-news-01.jpg" alt=""></div>
+                    <div class="swiper-slide"><img class="img-fluid" src="foto/home-news-02.jpg" alt=""></div>
+                    <div class="swiper-slide"><img class="img-fluid" src="foto/news-01.png" alt=""></div>
+                </div>
+                <!-- Add Arrows -->
+                <div class="swiper-button-next"></div>
+
+                <div class="swiper-button-prev"></div>
+        </div>
 
         <div id="news" class="container mt-5">
             <div class="row pt-90 pb-90">
