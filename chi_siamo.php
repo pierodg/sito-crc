@@ -175,15 +175,19 @@
             </div>
             <div class="row">
                 <div class="col-4 text-center">
+<<<<<<< HEAD
                     <h1 class="big-numb font-light">40</h1>
+=======
+                    <h1 class="big-numb font-light font-light numscroller" data-min='0' data-max='40' data-delay='5' data-increment='5'>40</h1>
+>>>>>>> 9498644bb7f93cdcf2f8102b56dbb562b4c91fc4
                     <p class="font-regular link">Anni di esperienza</p>
                 </div>
                 <div class="col-4 text-center">
-                    <h1 class="big-numb font-light count">65</h1>
+                    <h1 class="big-numb font-light font-light numscroller" data-min='0' data-max='65' data-delay='5' data-increment='5'>65</h1>
                     <p class="font-regular link">Ingegneri</p>
                 </div>
                 <div class="col-4 text-center">
-                    <h1 class="big-numb font-light count">1500</h1>
+                    <h1 class="big-numb font-light font-light numscroller" data-min='0' data-max='1500' data-delay='10' data-increment='10'>1500</h1>
                     <p class="font-regular link">di Laboratori</p>
                 </div>
             </div>
@@ -295,6 +299,7 @@
         <script src="js/jquery-3.5.1.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
         <script src="js/swiper-bundle.min.js"></script>
+        <script src="js/numscroller.js"></script>
         <script src="js/main.js"></script>
 
     </body>
