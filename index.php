@@ -218,11 +218,8 @@
                     <p class="font-regular link">Ingegneri</p>
                 </div>
                 <div class="col-4 text-center">
-<<<<<<< HEAD
-                    <h1 class="big-numb font-light count font-light">1500<span class="badge badge-secondary">New</span></h1>
-=======
+
                     <h1 class="big-numb font-light font-light numscroller" data-min='0' data-max='1500' data-delay='10' data-increment='10'>1500</h1>
->>>>>>> 9498644bb7f93cdcf2f8102b56dbb562b4c91fc4
                     <p class="font-regular link">di Laboratori</p>
                 </div>
             </div>
