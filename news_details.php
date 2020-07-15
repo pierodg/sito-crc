@@ -102,6 +102,11 @@
                     <div><a id="next_news" href="javascript:void(0);"><i class="icon-arrow icon-rounded"></i></a></div>
                 </div>
             </div>
+            <div class="row pt-5">
+                <div class="col-12 text-center">
+                    <a href="javascript:void(0);" class="link font-medium"><i class="icon-arrow"></i>Button link</a>
+                </div>
+            </div>
         </div>
 
         <div id="news" class="container mt-5">
