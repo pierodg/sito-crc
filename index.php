@@ -218,7 +218,7 @@
                     <p class="font-regular link">Ingegneri</p>
                 </div>
                 <div class="col-4 text-center">
-                    <h1 class="big-numb font-light count font-light">1500</h1>
+                    <h1 class="big-numb font-light count font-light">1500<span class="badge badge-secondary">New</span></h1>
                     <p class="font-regular link">di Laboratori</p>
                 </div>
             </div>

@@ -59,7 +59,7 @@
         <div class="container w-2220 p-4">
             <div class="row py-4">
                 <div class="col-8 offset-1">
-                    <h3 class="font-medium">Servizi</h3>
+                    <h3 class="font-medium uppercase">Servizi</h3>
                     <h1 class="font-regular pt-4">Scopri tutti i servizi di CR&C</h1>
                 </div>
             </div>

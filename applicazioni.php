@@ -62,7 +62,7 @@
                 </div>
                 <div class="col-5 offset-1 d-flex align-items-start">
                     <div class="row pt-5 h-100">
-                        <div class="col-1"><span>01</span></div>
+                        <div class="col-1"><span class="services-number font-13 font-light">01</span></div>
                         <div class="col-11 d-flex">
                             <div class="pl-5 details d-flex flex-column justify-content-between">
                                 <h2 class="uppercase">Telecom equipment</h2>
@@ -78,10 +78,10 @@
             <div class="row py-80 bt-1">
                 <div class="col-5 d-flex align-items-start">
                     <div class="row pt-5 h-100">
-                        <div class="col-1"><span>01</span></div>
+                        <div class="col-1"><span class="services-number font-13 font-light">02</span></div>
                         <div class="col-11 d-flex">
                             <div class="pl-5 details d-flex flex-column justify-content-between">
-                                <h2 class="uppercase">Telecom equipment</h2>
+                                <h2 class="uppercase">Industrial Automatation</h2>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis voluptates esse ullam numquam at aliquid hic. Aperiam cum nam sint blanditiis! Qui sit porro dolore consequuntur! Rem, quas. Fugit, quia!</p>
                                 <a href="javascript:void(0);" class="link font-medium"><i class="icon-arrow"></i>Scopri di più</a>
                             </div>
@@ -101,10 +101,10 @@
                 </div>
                 <div class="col-5 offset-1 d-flex align-items-start">
                     <div class="row pt-5 h-100">
-                        <div class="col-1"><span>01</span></div>
+                        <div class="col-1"><span class="services-number font-13 font-light">03</span></div>
                         <div class="col-11 d-flex">
                             <div class="pl-5 details d-flex flex-column justify-content-between">
-                                <h2 class="uppercase">Telecom equipment</h2>
+                                <h2 class="uppercase">Energy Industry</h2>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis voluptates esse ullam numquam at aliquid hic. Aperiam cum nam sint blanditiis! Qui sit porro dolore consequuntur! Rem, quas. Fugit, quia!</p>
                                 <a href="javascript:void(0);" class="link font-medium"><i class="icon-arrow"></i>Scopri di più</a>
                             </div>
@@ -117,7 +117,7 @@
             <div class="row py-80 bt-1">
                 <div class="col-5 d-flex align-items-start">
                     <div class="row pt-5 h-100">
-                        <div class="col-1"><span>01</span></div>
+                        <div class="col-1"><span class="services-number font-13 font-light">04</span></div>
                         <div class="col-11 d-flex">
                             <div class="pl-5 details d-flex flex-column justify-content-between">
                                 <h2 class="uppercase">Telecom equipment</h2>
@@ -140,7 +140,7 @@
                 </div>
                 <div class="col-5 offset-1 d-flex align-items-start">
                     <div class="row pt-5 h-100">
-                        <div class="col-1"><span>01</span></div>
+                        <div class="col-1"><span class="services-number font-13 font-light">05</span></div>
                         <div class="col-11 d-flex">
                             <div class="pl-5 details d-flex flex-column justify-content-between">
                                 <h2 class="uppercase">Telecom equipment</h2>
@@ -156,7 +156,7 @@
             <div class="row py-80 bt-1 bb-1">
                 <div class="col-5 d-flex align-items-start">
                     <div class="row pt-5 h-100">
-                        <div class="col-1"><span>01</span></div>
+                        <div class="col-1"><span class="services-number font-13 font-light">06</span></div>
                         <div class="col-11 d-flex">
                             <div class="pl-5 details d-flex flex-column justify-content-between">
                                 <h2 class="uppercase">Telecom equipment</h2>

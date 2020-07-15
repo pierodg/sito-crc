@@ -52,7 +52,7 @@
                 <div class="col-6">
                     <h3 class="pb-5 bb-1 font-medium uppercase">Contatti</h3>
                     <h1 class="pt-5 font-regular font-36">Via Thomas Edison 2 20875 - Burago di Molgora(MB) Italy</h1>
-                    <p class="pt-5">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus dicta ad sequi aliquam doloremque modi, quidem officiis, deleniti facere aliquid rerum nam aperiam nostrum reprehenderit dolores nulla necessitatibus assumenda fugiat.</p>
+                    <p class="pt-5">+39 039 6200005</p>
                 </div>
                 <div class="pt-5 col-4 offset-2">
                     ciao

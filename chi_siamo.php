@@ -175,7 +175,7 @@
             </div>
             <div class="row">
                 <div class="col-4 text-center">
-                    <h1 class="big-numb font-light count">40</h1>
+                    <h1 class="big-numb font-light">40</h1>
                     <p class="font-regular link">Anni di esperienza</p>
                 </div>
                 <div class="col-4 text-center">
