@@ -324,6 +324,17 @@ h5 {
     padding-top:20px;
     padding-bottom:20px;
 }
+.home .navmenu,
+.tax-servizi .navmenu,
+.page-id-34 .navmenu {
+    position: absolute;
+    border:none !important;
+}
+.home .navmenu ul li a,
+.tax-servizi .navmenu ul li a,
+.page-id-34 .navmenu ul li a {
+    color:#fff;
+}
 .position-absolute {
     position: absolute;
 }
@@ -540,4 +551,13 @@ footer li {
 }
 .accordion-header.collapsed {
     color:rgba(0,0,0,.3);
+}
+
+@media screen and (max-width:557px) {
+    .arrows {
+        display: none;
+    }
+    .big-numb {
+        font-size: 60px!important;
+    }
 }
