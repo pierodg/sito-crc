@@ -163,7 +163,7 @@
         </div>
                 
 
-        <div class="container">
+        <div class="container fade-2">
             <div class="row pt-90 pb-60">
                 <div class="py-5 col-6 offset-6">
                     <h3 class="w-75 pt-2 line-above font-medium">APPLICAZIONI</h3>
@@ -198,7 +198,7 @@
         </div>
 
 
-        <div id="chi_siamo" class="container">
+        <div id="chi_siamo" class="container fade-3">
             <div class="row pt-180 pb-60">
                 <div class="col-4 offset-3">
                     <h3 class="pt-2 line-above font-medium">CHI SIAMO</h3>
@@ -236,7 +236,7 @@
             
         </div>
 
-        <div class="container position-relative">
+        <div class="container position-relative fade-4">
             <svg class="arrows">
                 <use xlink:href="#arrows" xmlns:xlink="http://www.w3.org/1999/xlink"></use>
             </svg>
@@ -247,7 +247,7 @@
             </div>
         </div>
 
-        <div id="news" class="container mt-5">
+        <div id="news" class="container mt-5 fade-5">
             <div class="row pt-90 pb-90">
                 <div class="col-3">    
                     <h3 class="pt-2 line-above font-medium">NEWS</h3>
