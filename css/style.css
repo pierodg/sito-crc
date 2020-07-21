@@ -553,6 +553,11 @@ footer li {
     color:rgba(0,0,0,.3);
 }
 
+.fade-1 {
+    opacity:0;
+    position: -300px;
+}
+
 @media screen and (max-width:557px) {
     .arrows {
         display: none;

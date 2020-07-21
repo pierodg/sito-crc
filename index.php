@@ -116,7 +116,7 @@
         
 
         
-        <div class="container-fluid p-0 m-0">
+        <div class="container-fluid p-0 m-0 fade-1">
             <div class="row pt-180 pb-60">
                 <div class="col-3 offset-1 pr-0">
                     <h3 class="pt-2 line-above font-medium">SERVIZI</h3>
@@ -311,7 +311,11 @@
                 </div>
             </div>
         </footer>
-
+        
+        <script src="js/gsap.min.js"></script>
+        <script src="js/ScrollTrigger.min.js"></script>
+        <script src="js/animation.js"></script>
+        <script src="js/ScrollToPlugin.min.js"></script>
         <script src="js/jquery-3.5.1.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
         <script src="js/swiper-bundle.min.js"></script>
