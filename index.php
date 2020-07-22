@@ -94,6 +94,7 @@
                     </li>
                 </ul>
             </nav>
+            
             <!-- Additional required wrapper -->
             <div class="swiper-wrapper d-flex">
             <!-- Slides -->
@@ -113,6 +114,7 @@
             <div class="swiper-scrollbar col-4"></div>
             <div class="swiper-pagination col-4 text-left pl-5 pb-5"></div>
         </div>
+        <div class="piero"></div>
         
 
         
@@ -129,7 +131,8 @@
                 <div id="services" class="w-100 h-75 swiper-services">
                     <div class="swiper-wrapper">
                         <!-- First Card-->
-                        <a href="javascript:void(0);" class="p-5 service-card swiper-slide h-500" data-bg="asset/card1.png">
+                        <a href="javascript:void(0);" class="p-5 service-card swiper-slide h-500" data-bg="asset/card1.png" >
+                            </picture>
                             <p class="services-number font-light">01</p>
                             <h2 class="my-5 font-light">HARDWARE & FIRMWARE DESIGN</h2>
                             <p class="link show-more font-medium"><i class="icon-arrow"></i>Scopri di più</p>
@@ -163,7 +166,7 @@
         </div>
                 
 
-        <div class="container fade-2">
+        <div class="container fade-2 ">
             <div class="row pt-90 pb-60">
                 <div class="py-5 col-6 offset-6">
                     <h3 class="w-75 pt-2 line-above font-medium">APPLICAZIONI</h3>

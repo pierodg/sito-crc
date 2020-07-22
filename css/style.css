@@ -192,6 +192,15 @@ a:hover {
 .service-card:hover .services-number {
     color: #fff!important;
 }
+.service-card:hover .card1{
+transition: 1s;
+opacity: 1;
+}
+
+.card1 {
+    transition: 1s;
+    opacity: 0;
+}
 
 
 .w-1280 {

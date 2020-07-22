@@ -35,3 +35,13 @@ gsap.to(".fade-2", {
     duration: 3
 });*/
 
+
+
+
+var hoverDistort = new hoverEffect({
+    parent: document.querySelector('.piero'),
+    intensity: 0.5,
+    
+})
+
+
